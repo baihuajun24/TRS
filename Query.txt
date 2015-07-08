@@ -1,0 +1,5 @@
+SELECT ?uri ?name
+WHERE { ?uri <http://rdf.freebase.com/ns/common.topic.description> ?description .
+                                                            ?uri <http://rdf.freebase.com/ns/type.object.name> ?name .
+                                             }
+LIMIT 1000000

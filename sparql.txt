@@ -1,0 +1,140 @@
+﻿SELECT ?uri ?description
+WHERE { ?uri <http://rdf.freebase.com/ns/common.topic.description> ?description .}
+LIMIT 100
+ 
+0.23 sec
+1.761 sec
+ 
+返回任意100个实体“description”属性上的值。
+-----------------------------------------------------------------------------------------
+ 
+SELECT ?uri ?description 
+WHERE { ?uri <http://rdf.freebase.com/ns/common.topic.description> ?description .}
+LIMIT 1000
+ 
+0.45 sec
+10.542 sec
+ 
+返回任意1000个实体“description”属性上的值。
+-----------------------------------------------------------------------------------------
+ 
+SELECT ?uri ?description ?name
+WHERE { ?uri <http://rdf.freebase.com/ns/common.topic.description> ?description .
+        ?uri <http://rdf.freebase.com/ns/type.object.name> ?name .}
+LIMIT 100
+ 
+0.23 sec
+2.496 sec
+ 
+返回任意100个实体“description”和“name”属性上的值。
+-----------------------------------------------------------------------------------------
+ 
+SELECT ?uri ?description ?name
+WHERE { ?uri <http://rdf.freebase.com/ns/common.topic.description> ?description .
+        ?uri <http://rdf.freebase.com/ns/type.object.name> ?name .}
+LIMIT 10000
+ 
+2.2 sec
+120.855 sec
+ 
+返回任意10000个实体“description”和“name”属性上的值。
+-----------------------------------------------------------------------------------------
+ 
+SELECT ?uri ?name
+WHERE { ?uri <http://rdf.freebase.com/ns/common.topic.description> ?description .
+                                                            ?uri <http://rdf.freebase.com/ns/type.object.name> ?name .
+                                             }
+LIMIT 1000000
+ 
+40 sec
+ 
+返回任意1000000个实体“description”和“name”属性上的值。
+-----------------------------------------------------------------------------------------
+ 
+SELECT ?uri ?nationality
+WHERE { ?uri <http://rdf.freebase.com/ns/type.object.name> "Barack Obama"@en .
+                                                            ?uri <http://rdf.freebase.com/ns/people.person.nationality> ?nationality_uri.
+                                                            ?nationality_uri               <http://rdf.freebase.com/ns/type.object.name> ?nationality.
+                                             }
+                                            
+0.19 sec 
+0.347 sec
+ 
+查奥巴马的国籍。
+-----------------------------------------------------------------------------------------
+ 
+SELECT ?uri ?p ?o
+WHERE { ?uri <http://rdf.freebase.com/ns/type.object.name> "Barack Obama"@en .
+                                                            ?uri <http://rdf.freebase.com/ns/people.person.nationality> ?nationality_uri.
+                                                            ?nationality_uri  ?p ?o.
+                                             }
+                                            
+17 sec
+558.028 sec 
+查奥巴马的国籍，再接着查此国有关的所有的三元组。
+-----------------------------------------------------------------------------------------
+ 
+SELECT ?s
+WHERE { ?uri <http://rdf.freebase.com/ns/type.object.name> "France"@en .
+                                                            ?s <http://rdf.freebase.com/ns/people.person.nationality> ?uri .
+                                             }
+                                            
+2.1 sec
+ 
+查所有国籍是法国的人的uri。
+-----------------------------------------------------------------------------------------
+ 
+SELECT ?s ?name
+WHERE { ?uri <http://rdf.freebase.com/ns/type.object.name> "India"@en .
+                                                            ?s <http://rdf.freebase.com/ns/people.person.nationality> ?uri .
+                                                            ?s <http://rdf.freebase.com/ns/type.object.name> ?name .
+                                             }
+                                            
+3.6 sec
+ 
+查所有国籍是印度的人的名字。
+-----------------------------------------------------------------------------------------
+ 
+SELECT ?people ?name
+WHERE { ?ethic <http://rdf.freebase.com/ns/type.object.name> "Jewish people"@en .
+                                     ?nation <http://rdf.freebase.com/ns/type.object.name> "United States of America"@en .
+                                     ?career <http://rdf.freebase.com/ns/type.object.name>     "Physicist"@en .
+                                     ?people <http://rdf.freebase.com/ns/people.person.nationality> ?nation .
+                                     ?people <http://rdf.freebase.com/ns/people.person.ethnicity> ?ethic .
+                                     ?people <http://rdf.freebase.com/ns/people.person.profession> ?career .
+                                     ?people <http://rdf.freebase.com/ns/type.object.name> ?name.
+                            }
+15 sec
+ 
+所有国籍是美国的犹太人物理学家。
+-----------------------------------------------------------------------------------------
+ 
+SELECT ?president_name ?country_name ?from ?to
+WHERE { ?title <http://rdf.freebase.com/ns/type.object.name> "President"@en .
+                                     ?event <http://rdf.freebase.com/ns/type.object.type> <http://rdf.freebase.com/ns/government.government_position_held> .
+                                     ?event <http://rdf.freebase.com/ns/government.government_position_held.basic_title> ?title .
+                                     ?event <http://rdf.freebase.com/ns/government.government_position_held.office_holder> ?president .
+                                     ?event <http://rdf.freebase.com/ns/government.government_position_held.jurisdiction_of_office> ?country .
+                                     ?country <http://rdf.freebase.com/ns/type.object.name> ?country_name .
+                                     ?president <http://rdf.freebase.com/ns/type.object.name> ?president_name .
+                                     ?event <http://rdf.freebase.com/ns/government.government_position_held.from> ?from .
+                                     OPTIONAL { ?event <http://rdf.freebase.com/ns/government.government_position_held.to> ?to }
+                            }
+113 sec
+154 sec (eclipse)
+ 
+所有总统的国家、姓名、任期。
+-----------------------------------------------------------------------------------------
+ 
+SELECT ?country_name ?capital_name ?latitude
+WHERE { ?country <http://rdf.freebase.com/ns/type.object.type> <http://rdf.freebase.com/ns/location.country> .
+                                     ?country <http://rdf.freebase.com/ns/location.country.capital> ?capital .
+                                     ?capital <http://rdf.freebase.com/ns/location.location.geolocation> ?geolocation
+                                     ?geolocation <http://rdf.freebase.com/ns/location.geocode.latitude> ?latitude
+                                     ?country <http://rdf.freebase.com/ns/type.object.name> ?country_name .
+                                     ?capital <http://rdf.freebase.com/ns/type.object.name> ?capital_name .
+                            }
+12 sec
+547.311 sec
+ 
+所有国家的首都的纬度。

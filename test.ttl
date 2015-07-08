@@ -1,0 +1,1000 @@
+﻿<http://dbpedia.org/resource/Anarchism> <http://dbpedia.org/property/voy> "no"@en .
+<http://dbpedia.org/resource/Anarchism> <http://dbpedia.org/property/n> "no"@en .
+<http://dbpedia.org/resource/Anarchism> <http://dbpedia.org/property/v> "no"@en .
+<http://dbpedia.org/resource/A> <http://dbpedia.org/property/name> "Latin Capital Letter A"@en .
+<http://dbpedia.org/resource/A> <http://dbpedia.org/property/name> "Latin Small Letter A"@en .
+<http://dbpedia.org/resource/A> <http://dbpedia.org/property/map> "EBCDIC family"@en .
+<http://dbpedia.org/resource/A> <http://dbpedia.org/property/map1char> "1.0"^^<http://dbpedia.org/datatype/nicaraguanCórdoba> .
+<http://dbpedia.org/resource/A> <http://dbpedia.org/property/map1char> "81"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://dbpedia.org/resource/A> <http://dbpedia.org/property/map> "ASCII 1"@en .
+<http://dbpedia.org/resource/A> <http://dbpedia.org/property/map2char> "41"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://dbpedia.org/resource/A> <http://dbpedia.org/property/map2char> "61"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://dbpedia.org/resource/A> <http://dbpedia.org/property/nato> "Alpha"@en .
+<http://dbpedia.org/resource/A> <http://dbpedia.org/property/morse> "·–"@en .
+<http://dbpedia.org/resource/A> <http://dbpedia.org/property/character> "A1"@en .
+<http://dbpedia.org/resource/A> <http://dbpedia.org/property/braille> "⠁"@en .
+<http://dbpedia.org/resource/Autism> <http://dbpedia.org/property/name> "Autism"@en .
+<http://dbpedia.org/resource/Autism> <http://dbpedia.org/property/alt> "Young red-haired boy facing away from camera, stacking a seventh can atop a column of six food cans on the kitchen floor. An open pantry contains many more cans."@en .
+<http://dbpedia.org/resource/Autism> <http://dbpedia.org/property/caption> "Repetitively stacking or lining up objects is a behavior sometimes associated with individuals with autism."@en .
+<http://dbpedia.org/resource/Autism> <http://dbpedia.org/property/diseasesdb> "1142"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://dbpedia.org/resource/Autism> <http://dbpedia.org/property/icd> "F84.0"@en .
+<http://dbpedia.org/resource/Autism> <http://dbpedia.org/property/icd> "299"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://dbpedia.org/resource/Autism> <http://dbpedia.org/property/omim> "209850"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://dbpedia.org/resource/Autism> <http://dbpedia.org/property/medlineplus> "1526"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://dbpedia.org/resource/Autism> <http://dbpedia.org/property/emedicinesubj> "med"@en .
+<http://dbpedia.org/resource/Autism> <http://dbpedia.org/property/emedicinetopic> "3202"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://dbpedia.org/resource/Autism> <http://dbpedia.org/property/meshid> "D001321"@en .
+<http://dbpedia.org/resource/Autism> <http://dbpedia.org/property/genereviewsnbk> "NBK1442"@en .
+<http://dbpedia.org/resource/Autism> <http://dbpedia.org/property/genereviewsname> "Autism overview"@en .
+<http://dbpedia.org/resource/Autism> <http://dbpedia.org/property/d> "Q38404"@en .
+<http://dbpedia.org/resource/Autism> <http://dbpedia.org/property/s> "no"@en .
+<http://dbpedia.org/resource/Autism> <http://dbpedia.org/property/n> "Category:Autism"@en .
+<http://dbpedia.org/resource/Autism> <http://dbpedia.org/property/wikt> "autism"@en .
+<http://dbpedia.org/resource/Autism> <http://dbpedia.org/property/species> "no"@en .
+<http://dbpedia.org/resource/Autism> <http://dbpedia.org/property/voy> "no"@en .
+<http://dbpedia.org/resource/Autism> <http://dbpedia.org/property/m> "no"@en .
+<http://dbpedia.org/resource/Autism> <http://dbpedia.org/property/mw> "no"@en .
+<http://dbpedia.org/resource/Autism> <http://dbpedia.org/property/q> "no"@en .
+<http://dbpedia.org/resource/Autism> <http://dbpedia.org/property/v> "no"@en .
+<http://dbpedia.org/resource/An_American_in_Paris> <http://dbpedia.org/property/direction> "vertical"@en .
+<http://dbpedia.org/resource/An_American_in_Paris> <http://dbpedia.org/property/width> "500"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://dbpedia.org/resource/An_American_in_Paris> <http://dbpedia.org/property/footer> "Themes from An American in Paris"@en .
+<http://dbpedia.org/resource/An_American_in_Paris> <http://dbpedia.org/property/image> "George Gershwin An American in Paris.png"@en .
+<http://dbpedia.org/resource/An_American_in_Paris> <http://dbpedia.org/property/image> "Gershwin Paris02.jpg"@en .
+<http://dbpedia.org/resource/Aristotle> <http://dbpedia.org/property/name> "Aristotle"@en .
+<http://dbpedia.org/resource/Aristotle> <http://dbpedia.org/property/caption> "Roman copy in marble of a Greek bronze bust of Aristotle by Lysippus, c. ."@en .
+<http://dbpedia.org/resource/Aristotle> <http://dbpedia.org/property/caption> "The alabaster mantle is modern."@en .
+<http://dbpedia.org/resource/Aristotle> <http://dbpedia.org/property/nationality> <http://dbpedia.org/resource/Greeks> .
+<http://dbpedia.org/resource/Aristotle> <http://dbpedia.org/property/era> <http://dbpedia.org/resource/Ancient_philosophy> .
+<http://dbpedia.org/resource/Aristotle> <http://dbpedia.org/property/region> <http://dbpedia.org/resource/Western_philosophy> .
+<http://dbpedia.org/resource/Aristotle> <http://dbpedia.org/property/mainInterests> "Biology Zoology Physics Metaphysics Logic Ethics Music Poetry Theatre Rhetoric Politics Government"@en .
+<http://dbpedia.org/resource/Aristotle> <http://dbpedia.org/property/influences> <http://dbpedia.org/resource/Parmenides> .
+<http://dbpedia.org/resource/Aristotle> <http://dbpedia.org/property/influences> <http://dbpedia.org/resource/Socrates> .
+<http://dbpedia.org/resource/Aristotle> <http://dbpedia.org/property/influences> <http://dbpedia.org/resource/Plato> .
+<http://dbpedia.org/resource/Aristotle> <http://dbpedia.org/property/influences> <http://dbpedia.org/resource/Heraclitus> .
+<http://dbpedia.org/resource/Aristotle> <http://dbpedia.org/property/influences> <http://dbpedia.org/resource/Democritus> .
+<http://dbpedia.org/resource/Aristotle> <http://dbpedia.org/property/influenced> "Virtually all subsequent Western philosophy, Christian philosophy and pre-Enlightenment science and much Islamic and Jewish philosophy; see List of writers influenced by Aristotle."@en .
+<http://dbpedia.org/resource/Aristotle> <http://dbpedia.org/property/urlname> "Aristotle"@en .
+<http://dbpedia.org/resource/Aristotle> <http://dbpedia.org/property/title> "Aristotle"@en .
+<http://dbpedia.org/resource/Aristotle> <http://dbpedia.org/property/viaf> "7524651"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://dbpedia.org/resource/Aristotle> <http://dbpedia.org/property/pnd> "118650130"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://dbpedia.org/resource/Aristotle> <http://dbpedia.org/property/lccn> "n/79/4182"@en .
+<http://dbpedia.org/resource/Aristotle> <http://dbpedia.org/property/alternativeNames> "Ἀριστοτέλης"@en .
+<http://dbpedia.org/resource/Aristotle> <http://dbpedia.org/property/shortDescription> "Greek philosopher"@en .
+<http://dbpedia.org/resource/Aristotle> <http://dbpedia.org/property/dateOfBirth> "384"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://dbpedia.org/resource/Aristotle> <http://dbpedia.org/property/placeOfBirth> <http://dbpedia.org/resource/Stagira_(ancient_city)> .
+<http://dbpedia.org/resource/Aristotle> <http://dbpedia.org/property/dateOfDeath> "322"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://dbpedia.org/resource/Aristotle> <http://dbpedia.org/property/placeOfDeath> <http://dbpedia.org/resource/Chalcis> .
+<http://dbpedia.org/resource/Alabama> <http://dbpedia.org/property/name> "Alabama"@en .
+<http://dbpedia.org/resource/Alabama> <http://dbpedia.org/property/fullname> "State of Alabama"@en .
+<http://dbpedia.org/resource/Alabama> <http://dbpedia.org/property/flag> "Flag of Alabama.svg"@en .
+<http://dbpedia.org/resource/Alabama> <http://dbpedia.org/property/flaglink> <http://dbpedia.org/resource/Flag_of_Alabama> .
+<http://dbpedia.org/resource/Alabama> <http://dbpedia.org/property/seal> "Seal of Alabama.svg"@en .
+<http://dbpedia.org/resource/Alabama> <http://dbpedia.org/property/seallink> <http://dbpedia.org/resource/Seal_of_Alabama> .
+<http://dbpedia.org/resource/Alabama> <http://dbpedia.org/property/coatOfArms> "Alabama-COA.png"@en .
+<http://dbpedia.org/resource/Alabama> <http://dbpedia.org/property/coatlink> <http://dbpedia.org/resource/Coat_of_arms_of_Alabama> .
+<http://dbpedia.org/resource/Alabama> <http://dbpedia.org/property/map> "Alabama in United States.svg"@en .
+<http://dbpedia.org/resource/Alabama> <http://dbpedia.org/property/nickname> "Yellowhammer State, Heart of Dixie, Cotton State"@en .
+<http://dbpedia.org/resource/Alabama> <http://dbpedia.org/property/demonym> <http://dbpedia.org/resource/Adjectivals_and_demonyms_for_U.S._states> .
+<http://dbpedia.org/resource/Alabama> <http://dbpedia.org/property/motto> "Audemus jura nostra defendere"@en .
+<http://dbpedia.org/resource/Alabama> <http://dbpedia.org/property/mottoenglish> "We dare defend our rights"@en .
+<http://dbpedia.org/resource/Alabama> <http://dbpedia.org/property/former> "Alabama Territory"@en .
+<http://dbpedia.org/resource/Alabama> <http://dbpedia.org/property/capital> <http://dbpedia.org/resource/Montgomery,_Alabama> .
+<http://dbpedia.org/resource/Alabama> <http://dbpedia.org/property/officiallang> "English"@en .
+<http://dbpedia.org/resource/Alabama> <http://dbpedia.org/property/languages> "English"@en .
+<http://dbpedia.org/resource/Alabama> <http://dbpedia.org/property/languages> "Spanish"@en .
+<http://dbpedia.org/resource/Alabama> <http://dbpedia.org/property/largestmetro> <http://dbpedia.org/resource/Birmingham-Hoover-Cullman_Combined_Statistical_Area> .
+<http://dbpedia.org/resource/Alabama> <http://dbpedia.org/property/largestcity> <http://dbpedia.org/resource/Birmingham,_Alabama> .
+<http://dbpedia.org/resource/Alabama> <http://dbpedia.org/property/largestcity> "212038"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://dbpedia.org/resource/Alabama> <http://dbpedia.org/property/governor> "Robert J. Bentley"@en .
+<http://dbpedia.org/resource/Alabama> <http://dbpedia.org/property/lieutenantGovernor> "Kay Ivey"@en .
+<http://dbpedia.org/resource/Alabama> <http://dbpedia.org/property/legislature> <http://dbpedia.org/resource/Alabama_Legislature> .
+<http://dbpedia.org/resource/Alabama> <http://dbpedia.org/property/upperhouse> "Senate R-23, D-11"@en .
+<http://dbpedia.org/resource/Alabama> <http://dbpedia.org/property/lowerhouse> "House of Representatives R-66, D-38"@en .
+<http://dbpedia.org/resource/Alabama> <http://dbpedia.org/property/senators> <http://dbpedia.org/resource/Richard_Shelby> .
+<http://dbpedia.org/resource/Alabama> <http://dbpedia.org/property/senators> <http://dbpedia.org/resource/Jeff_Sessions> .
+<http://dbpedia.org/resource/Alabama> <http://dbpedia.org/property/representative> "6"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://dbpedia.org/resource/Alabama> <http://dbpedia.org/property/tradabbreviation> "Ala."@en .
+<http://dbpedia.org/resource/Alabama> <http://dbpedia.org/property/postalabbreviation> "AL"@en .
+<http://dbpedia.org/resource/Alabama> <http://dbpedia.org/property/arearank> "30"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://dbpedia.org/resource/Alabama> <http://dbpedia.org/property/totalarea> "135765"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://dbpedia.org/resource/Alabama> <http://dbpedia.org/property/totalareaus> "52419"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://dbpedia.org/resource/Alabama> <http://dbpedia.org/property/landarea> "131426"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://dbpedia.org/resource/Alabama> <http://dbpedia.org/property/landareaus> "50744"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://dbpedia.org/resource/Alabama> <http://dbpedia.org/property/waterarea> "4338"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://dbpedia.org/resource/Alabama> <http://dbpedia.org/property/waterareaus> "1675"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://dbpedia.org/resource/Alabama> <http://dbpedia.org/property/pcwater> "3.2"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://dbpedia.org/resource/Alabama> <http://dbpedia.org/property/poprank> "23.0"^^<http://dbpedia.org/datatype/rod> .
+<http://dbpedia.org/resource/Alabama> <http://dbpedia.org/property/2010pop> "4833722"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://dbpedia.org/resource/Alabama> <http://dbpedia.org/property/densityrank> "27"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://dbpedia.org/resource/Alabama> <http://dbpedia.org/property/2010density> "36.5"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://dbpedia.org/resource/Alabama> <http://dbpedia.org/property/2010densityus> "94.7"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://dbpedia.org/resource/Alabama> <http://dbpedia.org/property/medianhouseholdincome> "40489.0"^^<http://dbpedia.org/datatype/usDollar> .
+<http://dbpedia.org/resource/Alabama> <http://dbpedia.org/property/incomerank> "46"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://dbpedia.org/resource/Alabama> <http://dbpedia.org/property/admittanceorder> "22"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://dbpedia.org/resource/Alabama> <http://dbpedia.org/property/admittancedate> "1819-12-14"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://dbpedia.org/resource/Alabama> <http://dbpedia.org/property/timezone> <http://dbpedia.org/resource/Central_Time_Zone_(North_America)> .
+<http://dbpedia.org/resource/Alabama> <http://dbpedia.org/property/timezone> <http://dbpedia.org/resource/Coordinated_Universal_Time> .
+<http://dbpedia.org/resource/Alabama> <http://dbpedia.org/property/timezone> <http://dbpedia.org/resource/Central_Standard_Time> .
+<http://dbpedia.org/resource/Alabama> <http://dbpedia.org/property/timezone> <http://dbpedia.org/resource/Central_Daylight_Time> .
+<http://dbpedia.org/resource/Alabama> <http://dbpedia.org/property/tz1where> "most of state"@en .
+<http://dbpedia.org/resource/Alabama> <http://dbpedia.org/property/timezone> <http://dbpedia.org/resource/Eastern_Time_Zone_(North_America)> .
+<http://dbpedia.org/resource/Alabama> <http://dbpedia.org/property/timezone> <http://dbpedia.org/resource/Eastern_Time_Zone> .
+<http://dbpedia.org/resource/Alabama> <http://dbpedia.org/property/timezone> <http://dbpedia.org/resource/Eastern_Daylight_Time> .
+<http://dbpedia.org/resource/Alabama> <http://dbpedia.org/property/tz2where> "Phenix City, Alabama area"@en .
+<http://dbpedia.org/resource/Alabama> <http://dbpedia.org/property/latitude> "30"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://dbpedia.org/resource/Alabama> <http://dbpedia.org/property/longitude> "84"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://dbpedia.org/resource/Alabama> <http://dbpedia.org/property/width> "305"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://dbpedia.org/resource/Alabama> <http://dbpedia.org/property/widthus> "190"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://dbpedia.org/resource/Alabama> <http://dbpedia.org/property/length> "531"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://dbpedia.org/resource/Alabama> <http://dbpedia.org/property/lengthus> "330"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://dbpedia.org/resource/Alabama> <http://dbpedia.org/property/largestcounty> <http://dbpedia.org/resource/Baldwin_County,_Alabama> .
+<http://dbpedia.org/resource/Alabama> <http://dbpedia.org/property/highestpoint> <http://dbpedia.org/resource/Mount_Cheaha> .
+<http://dbpedia.org/resource/Alabama> <http://dbpedia.org/property/highestelev> "735.5"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://dbpedia.org/resource/Alabama> <http://dbpedia.org/property/highestelevus> "2413"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://dbpedia.org/resource/Alabama> <http://dbpedia.org/property/meanelev> "150"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://dbpedia.org/resource/Alabama> <http://dbpedia.org/property/meanelevus> "500"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://dbpedia.org/resource/Alabama> <http://dbpedia.org/property/lowestpoint> <http://dbpedia.org/resource/Gulf_of_Mexico> .
+<http://dbpedia.org/resource/Alabama> <http://dbpedia.org/property/lowestelev> "0"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://dbpedia.org/resource/Alabama> <http://dbpedia.org/property/lowestelevus> "0"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://dbpedia.org/resource/Alabama> <http://dbpedia.org/property/isocode> "US-AL"@en .
+<http://dbpedia.org/resource/Alabama> <http://dbpedia.org/property/website> "www.Alabama.gov"@en .
+<http://dbpedia.org/resource/Alabama> <http://dbpedia.org/property/boxwidth> "25"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://dbpedia.org/resource/Alabama> <http://dbpedia.org/property/flagsize> "125"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://dbpedia.org/resource/Alabama> <http://dbpedia.org/property/amphibian> <http://dbpedia.org/resource/Red_Hills_salamander> .
+<http://dbpedia.org/resource/Alabama> <http://dbpedia.org/property/bird> <http://dbpedia.org/resource/Northern_Flicker> .
+<http://dbpedia.org/resource/Alabama> <http://dbpedia.org/property/bird> <http://dbpedia.org/resource/Wild_Turkey> .
+<http://dbpedia.org/resource/Alabama> <http://dbpedia.org/property/butterfly> <http://dbpedia.org/resource/Eastern_Tiger_Swallowtail> .
+<http://dbpedia.org/resource/Alabama> <http://dbpedia.org/property/fish> <http://dbpedia.org/resource/Largemouth_bass> .
+<http://dbpedia.org/resource/Alabama> <http://dbpedia.org/property/fish> <http://dbpedia.org/resource/Atlantic_tarpon> .
+<http://dbpedia.org/resource/Alabama> <http://dbpedia.org/property/flower> <http://dbpedia.org/resource/Camellia> .
+<http://dbpedia.org/resource/Alabama> <http://dbpedia.org/property/flower> <http://dbpedia.org/resource/Hydrangea_quercifolia> .
+<http://dbpedia.org/resource/Alabama> <http://dbpedia.org/property/insect> <http://dbpedia.org/resource/Monarch_Butterfly> .
+<http://dbpedia.org/resource/Alabama> <http://dbpedia.org/property/mammal> <http://dbpedia.org/resource/American_Black_Bear> .
+<http://dbpedia.org/resource/Alabama> <http://dbpedia.org/property/mammal> <http://dbpedia.org/resource/Racking_horse> .
+<http://dbpedia.org/resource/Alabama> <http://dbpedia.org/property/reptile> <http://dbpedia.org/resource/Alabama_red-bellied_turtle> .
+<http://dbpedia.org/resource/Alabama> <http://dbpedia.org/property/tree> <http://dbpedia.org/resource/Longleaf_Pine> .
+<http://dbpedia.org/resource/Alabama> <http://dbpedia.org/property/beverage> <http://dbpedia.org/resource/Conecuh_Ridge_Whiskey> .
+<http://dbpedia.org/resource/Alabama> <http://dbpedia.org/property/colors> "Red, White"@en .
+<http://dbpedia.org/resource/Alabama> <http://dbpedia.org/property/dance> <http://dbpedia.org/resource/Square_Dance> .
+<http://dbpedia.org/resource/Alabama> <http://dbpedia.org/property/food> <http://dbpedia.org/resource/Pecan> .
+<http://dbpedia.org/resource/Alabama> <http://dbpedia.org/property/food> <http://dbpedia.org/resource/Blackberry> .
+<http://dbpedia.org/resource/Alabama> <http://dbpedia.org/property/food> <http://dbpedia.org/resource/Peach> .
+<http://dbpedia.org/resource/Alabama> <http://dbpedia.org/property/fossil> <http://dbpedia.org/resource/Basilosaurus> .
+<http://dbpedia.org/resource/Alabama> <http://dbpedia.org/property/gemstone> <http://dbpedia.org/resource/Star_Blue_Quartz> .
+<http://dbpedia.org/resource/Alabama> <http://dbpedia.org/property/mineral> <http://dbpedia.org/resource/Hematite> .
+<http://dbpedia.org/resource/Alabama> <http://dbpedia.org/property/staterock> <http://dbpedia.org/resource/Marble> .
+<http://dbpedia.org/resource/Alabama> <http://dbpedia.org/property/shell> <http://dbpedia.org/resource/Johnstone's_Junonia> .
+<http://dbpedia.org/resource/Alabama> <http://dbpedia.org/property/slogan> "Share The Wonder,"@en .
+<http://dbpedia.org/resource/Alabama> <http://dbpedia.org/property/slogan> "Alabama the beautiful,"@en .
+<http://dbpedia.org/resource/Alabama> <http://dbpedia.org/property/slogan> "Where America finds its voice,"@en .
+<http://dbpedia.org/resource/Alabama> <http://dbpedia.org/property/slogan> "Sweet Home Alabama,"@en .
+<http://dbpedia.org/resource/Alabama> <http://dbpedia.org/property/slogan> "\"Heart of Dixie\""@en .
+<http://dbpedia.org/resource/Alabama> <http://dbpedia.org/property/soil> <http://dbpedia.org/resource/Bama_(soil)> .
+<http://dbpedia.org/resource/Alabama> <http://dbpedia.org/property/song> "Alabama"@en .
+<http://dbpedia.org/resource/Alabama> <http://dbpedia.org/property/routeMarker> "Alabama 67.svg"@en .
+<http://dbpedia.org/resource/Alabama> <http://dbpedia.org/property/quarter> "2003"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://dbpedia.org/resource/Alabama> <http://dbpedia.org/property/quarterreleasedate> "2003"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://dbpedia.org/resource/Alabama> <http://dbpedia.org/property/align> "right"@en .
+<http://dbpedia.org/resource/Alabama> <http://dbpedia.org/property/width> "300"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://dbpedia.org/resource/Alabama> <http://dbpedia.org/property/title> "Topics related to Alabama"@en .
+<http://dbpedia.org/resource/Alabama> <http://dbpedia.org/property/title> "The Heart of Dixie"@en .
+<http://dbpedia.org/resource/Alabama> <http://dbpedia.org/property/state> "expanded"@en .
+<http://dbpedia.org/resource/Alabama> <http://dbpedia.org/property/centre> "Alabama: Outline • Index"@en .
+<http://dbpedia.org/resource/Alabama> <http://dbpedia.org/property/southwest> <http://dbpedia.org/resource/Gulf_of_Mexico> .
+<http://dbpedia.org/resource/Alabama> <http://dbpedia.org/property/preceded> <http://dbpedia.org/resource/Illinois> .
+<http://dbpedia.org/resource/Alabama> <http://dbpedia.org/property/office> <http://dbpedia.org/resource/List_of_U.S._states_by_date_of_statehood> .
+<http://dbpedia.org/resource/Alabama> <http://dbpedia.org/property/years> "--12-14"^^<http://www.w3.org/2001/XMLSchema#gMonthDay> .
+<http://dbpedia.org/resource/Alabama> <http://dbpedia.org/property/succeeded> <http://dbpedia.org/resource/Maine> .
+<http://dbpedia.org/resource/Abraham_Lincoln> <http://dbpedia.org/property/name> "Abraham Lincoln"@en .
+<http://dbpedia.org/resource/Abraham_Lincoln> <http://dbpedia.org/property/imagesize> "225"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://dbpedia.org/resource/Abraham_Lincoln> <http://dbpedia.org/property/alt> "Iconic black and white photograph of Lincoln showing his head and shoulders."@en .
+<http://dbpedia.org/resource/Abraham_Lincoln> <http://dbpedia.org/property/caption> "An 1863 daguerreotype of Lincoln, at the age of 54."@en .
+<http://dbpedia.org/resource/Abraham_Lincoln> <http://dbpedia.org/property/order> "16"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://dbpedia.org/resource/Abraham_Lincoln> <http://dbpedia.org/property/office> "President of the United States"@en .
+<http://dbpedia.org/resource/Abraham_Lincoln> <http://dbpedia.org/property/vicepresident> "Hannibal Hamlin"@en .
+<http://dbpedia.org/resource/Abraham_Lincoln> <http://dbpedia.org/property/vicepresident> "Andrew Johnson"@en .
+<http://dbpedia.org/resource/Abraham_Lincoln> <http://dbpedia.org/property/termStart> "1861-03-04"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://dbpedia.org/resource/Abraham_Lincoln> <http://dbpedia.org/property/termEnd> "1865-04-15"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://dbpedia.org/resource/Abraham_Lincoln> <http://dbpedia.org/property/predecessor> <http://dbpedia.org/resource/James_Buchanan> .
+<http://dbpedia.org/resource/Abraham_Lincoln> <http://dbpedia.org/property/successor> <http://dbpedia.org/resource/Andrew_Johnson> .
+<http://dbpedia.org/resource/Abraham_Lincoln> <http://dbpedia.org/property/state> <http://dbpedia.org/resource/Illinois> .
+<http://dbpedia.org/resource/Abraham_Lincoln> <http://dbpedia.org/property/district> "7"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://dbpedia.org/resource/Abraham_Lincoln> <http://dbpedia.org/property/termStart> "1847-03-04"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://dbpedia.org/resource/Abraham_Lincoln> <http://dbpedia.org/property/termEnd> "1849-03-04"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://dbpedia.org/resource/Abraham_Lincoln> <http://dbpedia.org/property/predecessor> <http://dbpedia.org/resource/John_Henry_(representative)> .
+<http://dbpedia.org/resource/Abraham_Lincoln> <http://dbpedia.org/property/successor> <http://dbpedia.org/resource/Thomas_L._Harris> .
+<http://dbpedia.org/resource/Abraham_Lincoln> <http://dbpedia.org/property/stateHouse> "Illinois"@en .
+<http://dbpedia.org/resource/Abraham_Lincoln> <http://dbpedia.org/property/office> <http://dbpedia.org/resource/Illinois_House_of_Representatives> .
+<http://dbpedia.org/resource/Abraham_Lincoln> <http://dbpedia.org/property/termStart> "1834-12-01"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://dbpedia.org/resource/Abraham_Lincoln> <http://dbpedia.org/property/termEnd> "1842"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://dbpedia.org/resource/Abraham_Lincoln> <http://dbpedia.org/property/birthDate> "1809-02-12"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://dbpedia.org/resource/Abraham_Lincoln> <http://dbpedia.org/property/birthPlace> "Hodgenville, Kentucky, U.S."@en .
+<http://dbpedia.org/resource/Abraham_Lincoln> <http://dbpedia.org/property/deathDate> "1865-04-15"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://dbpedia.org/resource/Abraham_Lincoln> <http://dbpedia.org/property/deathPlace> <http://dbpedia.org/resource/Petersen_House_(Washington,_D.C.)> .
+<http://dbpedia.org/resource/Abraham_Lincoln> <http://dbpedia.org/property/deathPlace> "Washington D.C., U.S."@en .
+<http://dbpedia.org/resource/Abraham_Lincoln> <http://dbpedia.org/property/restingplace> "Springfield, Illinois, U.S."@en .
+<http://dbpedia.org/resource/Abraham_Lincoln> <http://dbpedia.org/property/nationality> "American"@en .
+<http://dbpedia.org/resource/Abraham_Lincoln> <http://dbpedia.org/property/party> "Whig"@en .
+<http://dbpedia.org/resource/Abraham_Lincoln> <http://dbpedia.org/property/party> "Republican"@en .
+<http://dbpedia.org/resource/Abraham_Lincoln> <http://dbpedia.org/property/party> "National Union"@en .
+<http://dbpedia.org/resource/Abraham_Lincoln> <http://dbpedia.org/property/spouse> <http://dbpedia.org/resource/Mary_Todd_Lincoln> .
+<http://dbpedia.org/resource/Abraham_Lincoln> <http://dbpedia.org/property/children> <http://dbpedia.org/resource/Robert_Todd_Lincoln> .
+<http://dbpedia.org/resource/Abraham_Lincoln> <http://dbpedia.org/property/children> <http://dbpedia.org/resource/Edward_Baker_Lincoln> .
+<http://dbpedia.org/resource/Abraham_Lincoln> <http://dbpedia.org/property/children> <http://dbpedia.org/resource/William_Wallace_Lincoln> .
+<http://dbpedia.org/resource/Abraham_Lincoln> <http://dbpedia.org/property/children> <http://dbpedia.org/resource/Tad_Lincoln> .
+<http://dbpedia.org/resource/Abraham_Lincoln> <http://dbpedia.org/property/religion> <http://dbpedia.org/resource/Abraham_Lincoln_and_religion> .
+<http://dbpedia.org/resource/Abraham_Lincoln> <http://dbpedia.org/property/profession> "Lawyer"@en .
+<http://dbpedia.org/resource/Abraham_Lincoln> <http://dbpedia.org/property/profession> "Politician"@en .
+<http://dbpedia.org/resource/Abraham_Lincoln> <http://dbpedia.org/property/signature> "Abraham Lincoln 1862 signature.svg"@en .
+<http://dbpedia.org/resource/Abraham_Lincoln> <http://dbpedia.org/property/signatureAlt> "Cursive signature in ink"@en .
+<http://dbpedia.org/resource/Abraham_Lincoln> <http://dbpedia.org/property/branch> "Illinois Militia"@en .
+<http://dbpedia.org/resource/Abraham_Lincoln> <http://dbpedia.org/property/serviceyears> "7889400.0"^^<http://dbpedia.org/datatype/second> .
+<http://dbpedia.org/resource/Abraham_Lincoln> <http://dbpedia.org/property/rank> "*Private \n*Captain \nDischarged from his command and re-enlisted as a Private."@en .
+<http://dbpedia.org/resource/Abraham_Lincoln> <http://dbpedia.org/property/battles> <http://dbpedia.org/resource/Black_Hawk_War> .
+<http://dbpedia.org/resource/Abraham_Lincoln> <http://dbpedia.org/property/direction> "horizontal"@en .
+<http://dbpedia.org/resource/Abraham_Lincoln> <http://dbpedia.org/property/width> "180"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://dbpedia.org/resource/Abraham_Lincoln> <http://dbpedia.org/property/image> "A&TLincoln.jpg"@en .
+<http://dbpedia.org/resource/Abraham_Lincoln> <http://dbpedia.org/property/alt> "A seated Lincoln holding a book as his young son looks at it"@en .
+<http://dbpedia.org/resource/Abraham_Lincoln> <http://dbpedia.org/property/caption> "1864"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://dbpedia.org/resource/Abraham_Lincoln> <http://dbpedia.org/property/image> "Mary Todd Lincoln 1846-1847 restored cropped.png"@en .
+<http://dbpedia.org/resource/Abraham_Lincoln> <http://dbpedia.org/property/alt> "Black and white photo of Mary Todd Lincoln's shoulders and head"@en .
+<http://dbpedia.org/resource/Abraham_Lincoln> <http://dbpedia.org/property/caption> "Mary Todd Lincoln, wife of Abraham Lincoln, age 28"@en .
+<http://dbpedia.org/resource/Abraham_Lincoln> <http://dbpedia.org/property/align> "right"@en .
+<http://dbpedia.org/resource/Abraham_Lincoln> <http://dbpedia.org/property/width> "350"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://dbpedia.org/resource/Abraham_Lincoln> <http://dbpedia.org/property/image> "ElectoralCollege1860.svg"@en .
+<http://dbpedia.org/resource/Abraham_Lincoln> <http://dbpedia.org/property/alt> "Map of the U.S. showing Lincoln winning the North-east and West, Breckinridge winning the South, Douglas winning Missouri, and Bell winning Virginia, West Virginia, and Kentucky."@en .
+<http://dbpedia.org/resource/Abraham_Lincoln> <http://dbpedia.org/property/caption> "In 1860, northern and western electoral votes  put Lincoln into the White House."@en .
+<http://dbpedia.org/resource/Abraham_Lincoln> <http://dbpedia.org/property/width> "250"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://dbpedia.org/resource/Abraham_Lincoln> <http://dbpedia.org/property/image> "Abraham lincoln inauguration 1861.jpg"@en .
+<http://dbpedia.org/resource/Abraham_Lincoln> <http://dbpedia.org/property/alt> "A large crowd in front of a large building with many pillars."@en .
+<http://dbpedia.org/resource/Abraham_Lincoln> <http://dbpedia.org/property/caption> "1861"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://dbpedia.org/resource/Abraham_Lincoln> <http://dbpedia.org/property/align> "left"@en .
+<http://dbpedia.org/resource/Abraham_Lincoln> <http://dbpedia.org/property/width> "272"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://dbpedia.org/resource/Abraham_Lincoln> <http://dbpedia.org/property/image> "1864"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://dbpedia.org/resource/Abraham_Lincoln> <http://dbpedia.org/property/alt> "Map of the U.S. showing Lincoln winning all the Union states except for Kentucky, New Jersey, and Delaware. The Southern states are not included."@en .
+<http://dbpedia.org/resource/Abraham_Lincoln> <http://dbpedia.org/property/caption> "An electoral landslide  for Lincoln in the 1864 election, southern states  and territories  not in play"@en .
+<http://dbpedia.org/resource/Abraham_Lincoln> <http://dbpedia.org/property/image> "Abraham_Lincoln_giving_his_second_Inaugural_Address_.jpg"@en .
+<http://dbpedia.org/resource/Abraham_Lincoln> <http://dbpedia.org/property/caption> "Lincoln's second inaugural address in 1865 at the almost completed Capitol building"@en .
+<http://dbpedia.org/resource/Abraham_Lincoln> <http://dbpedia.org/property/name> "Lincoln"@en .
+<http://dbpedia.org/resource/Abraham_Lincoln> <http://dbpedia.org/property/president> "Abraham Lincoln"@en .
+<http://dbpedia.org/resource/Abraham_Lincoln> <http://dbpedia.org/property/presidentDate> "1861"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://dbpedia.org/resource/Abraham_Lincoln> <http://dbpedia.org/property/vicePresident> <http://dbpedia.org/resource/Hannibal_Hamlin> .
+<http://dbpedia.org/resource/Abraham_Lincoln> <http://dbpedia.org/property/vicePresidentDate> "1861"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://dbpedia.org/resource/Abraham_Lincoln> <http://dbpedia.org/property/vicePresident> <http://dbpedia.org/resource/Andrew_Johnson> .
+<http://dbpedia.org/resource/Abraham_Lincoln> <http://dbpedia.org/property/vicePresidentDate> "1865"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://dbpedia.org/resource/Abraham_Lincoln> <http://dbpedia.org/property/state> <http://dbpedia.org/resource/William_H._Seward> .
+<http://dbpedia.org/resource/Abraham_Lincoln> <http://dbpedia.org/property/stateDate> "1861"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://dbpedia.org/resource/Abraham_Lincoln> <http://dbpedia.org/property/treasury> <http://dbpedia.org/resource/Salmon_P._Chase> .
+<http://dbpedia.org/resource/Abraham_Lincoln> <http://dbpedia.org/property/treasuryDate> "1861"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://dbpedia.org/resource/Abraham_Lincoln> <http://dbpedia.org/property/treasury> <http://dbpedia.org/resource/William_P._Fessenden> .
+<http://dbpedia.org/resource/Abraham_Lincoln> <http://dbpedia.org/property/treasuryDate> "1864"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://dbpedia.org/resource/Abraham_Lincoln> <http://dbpedia.org/property/treasury> <http://dbpedia.org/resource/Hugh_McCulloch> .
+<http://dbpedia.org/resource/Abraham_Lincoln> <http://dbpedia.org/property/treasuryDate> "1865"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://dbpedia.org/resource/Abraham_Lincoln> <http://dbpedia.org/property/war> <http://dbpedia.org/resource/Simon_Cameron> .
+<http://dbpedia.org/resource/Abraham_Lincoln> <http://dbpedia.org/property/warDate> "1861"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://dbpedia.org/resource/Abraham_Lincoln> <http://dbpedia.org/property/war> <http://dbpedia.org/resource/Edwin_M._Stanton> .
+<http://dbpedia.org/resource/Abraham_Lincoln> <http://dbpedia.org/property/warDate> "1862"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://dbpedia.org/resource/Abraham_Lincoln> <http://dbpedia.org/property/justice> <http://dbpedia.org/resource/Edward_Bates> .
+<http://dbpedia.org/resource/Abraham_Lincoln> <http://dbpedia.org/property/justiceDate> "1861"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://dbpedia.org/resource/Abraham_Lincoln> <http://dbpedia.org/property/justice> <http://dbpedia.org/resource/James_Speed> .
+<http://dbpedia.org/resource/Abraham_Lincoln> <http://dbpedia.org/property/justiceDate> "1864"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://dbpedia.org/resource/Abraham_Lincoln> <http://dbpedia.org/property/post> <http://dbpedia.org/resource/Montgomery_Blair> .
+<http://dbpedia.org/resource/Abraham_Lincoln> <http://dbpedia.org/property/postDate> "1861"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://dbpedia.org/resource/Abraham_Lincoln> <http://dbpedia.org/property/post> <http://dbpedia.org/resource/William_Dennison,_Jr.> .
+<http://dbpedia.org/resource/Abraham_Lincoln> <http://dbpedia.org/property/postDate> "1864"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://dbpedia.org/resource/Abraham_Lincoln> <http://dbpedia.org/property/navy> <http://dbpedia.org/resource/Gideon_Welles> .
+<http://dbpedia.org/resource/Abraham_Lincoln> <http://dbpedia.org/property/navyDate> "1861"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://dbpedia.org/resource/Abraham_Lincoln> <http://dbpedia.org/property/interior> <http://dbpedia.org/resource/Caleb_Blood_Smith> .
+<http://dbpedia.org/resource/Abraham_Lincoln> <http://dbpedia.org/property/interiorDate> "1861"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://dbpedia.org/resource/Abraham_Lincoln> <http://dbpedia.org/property/interior> <http://dbpedia.org/resource/John_Palmer_Usher> .
+<http://dbpedia.org/resource/Abraham_Lincoln> <http://dbpedia.org/property/interiorDate> "1863"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://dbpedia.org/resource/Abraham_Lincoln> <http://dbpedia.org/property/wikt> "no"@en .
+<http://dbpedia.org/resource/Abraham_Lincoln> <http://dbpedia.org/property/commons> "Abraham Lincoln"@en .
+<http://dbpedia.org/resource/Abraham_Lincoln> <http://dbpedia.org/property/b> "no"@en .
+<http://dbpedia.org/resource/Abraham_Lincoln> <http://dbpedia.org/property/n> "no"@en .
+<http://dbpedia.org/resource/Abraham_Lincoln> <http://dbpedia.org/property/q> "Abraham Lincoln"@en .
+<http://dbpedia.org/resource/Abraham_Lincoln> <http://dbpedia.org/property/s> "Author:Abraham Lincoln"@en .
+<http://dbpedia.org/resource/Abraham_Lincoln> <http://dbpedia.org/property/v> "no"@en .
+<http://dbpedia.org/resource/Abraham_Lincoln> <http://dbpedia.org/property/voy> "no"@en .
+<http://dbpedia.org/resource/Abraham_Lincoln> <http://dbpedia.org/property/species> "no"@en .
+<http://dbpedia.org/resource/Abraham_Lincoln> <http://dbpedia.org/property/d> "no"@en .
+<http://dbpedia.org/resource/Abraham_Lincoln> <http://dbpedia.org/property/display> "Abraham Lincoln"@en .
+<http://dbpedia.org/resource/Abraham_Lincoln> <http://dbpedia.org/property/title> "Offices and distinctions"@en .
+<http://dbpedia.org/resource/Abraham_Lincoln> <http://dbpedia.org/property/title> "Articles related to Abraham Lincoln"@en .
+<http://dbpedia.org/resource/Abraham_Lincoln> <http://dbpedia.org/property/gnd> "11857308"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://dbpedia.org/resource/Abraham_Lincoln> <http://dbpedia.org/property/ulan> "500344436"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://dbpedia.org/resource/Abraham_Lincoln> <http://dbpedia.org/property/name> "Lincoln, Abraham"@en .
+<http://dbpedia.org/resource/Abraham_Lincoln> <http://dbpedia.org/property/shortDescription> "16"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://dbpedia.org/resource/Abraham_Lincoln> <http://dbpedia.org/property/dateOfBirth> "1809-02-12"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://dbpedia.org/resource/Abraham_Lincoln> <http://dbpedia.org/property/placeOfBirth> "Hardin County, Kentucky"@en .
+<http://dbpedia.org/resource/Abraham_Lincoln> <http://dbpedia.org/property/dateOfDeath> "1865-04-15"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://dbpedia.org/resource/Abraham_Lincoln> <http://dbpedia.org/property/placeOfDeath> "Washington, D.C."@en .
+<http://dbpedia.org/resource/Animalia_(book)> <http://dbpedia.org/property/name> "Animalia"@en .
+<http://dbpedia.org/resource/Animalia_(book)> <http://dbpedia.org/property/author> <http://dbpedia.org/resource/Graeme_Base> .
+<http://dbpedia.org/resource/Animalia_(book)> <http://dbpedia.org/property/illustrator> <http://dbpedia.org/resource/Graeme_Base> .
+<http://dbpedia.org/resource/Animalia_(book)> <http://dbpedia.org/property/country> "Australia"@en .
+<http://dbpedia.org/resource/Animalia_(book)> <http://dbpedia.org/property/language> "English"@en .
+<http://dbpedia.org/resource/Animalia_(book)> <http://dbpedia.org/property/genre> <http://dbpedia.org/resource/Picture_books> .
+<http://dbpedia.org/resource/Animalia_(book)> <http://dbpedia.org/property/publisher> <http://dbpedia.org/resource/Penguin_Books> .
+<http://dbpedia.org/resource/Animalia_(book)> <http://dbpedia.org/property/releaseDate> "1986"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://dbpedia.org/resource/Animalia_(book)> <http://dbpedia.org/property/mediaType> "Print"@en .
+<http://dbpedia.org/resource/Animalia_(book)> <http://dbpedia.org/property/pages> "32"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://dbpedia.org/resource/Animalia_(book)> <http://dbpedia.org/property/isbn> "0"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://dbpedia.org/resource/Altruism> <http://dbpedia.org/property/title> "Articles and topics related to Altruism"@en .
+<http://dbpedia.org/resource/Altruism> <http://dbpedia.org/property/state> "collapsed"@en .
+<http://dbpedia.org/resource/Academy_Awards> <http://dbpedia.org/property/name> "Academy Awards"@en .
+<http://dbpedia.org/resource/Academy_Awards> <http://dbpedia.org/property/currentAwards> "86"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://dbpedia.org/resource/Academy_Awards> <http://dbpedia.org/property/caption> "Cate Blanchett's Oscar for playing Katharine Hepburn in The Aviator in 2004"@en .
+<http://dbpedia.org/resource/Academy_Awards> <http://dbpedia.org/property/description> "Excellence in cinematic achievements"@en .
+<http://dbpedia.org/resource/Academy_Awards> <http://dbpedia.org/property/presenter> <http://dbpedia.org/resource/Academy_of_Motion_Picture_Arts_and_Sciences> .
+<http://dbpedia.org/resource/Academy_Awards> <http://dbpedia.org/property/country> "United States"@en .
+<http://dbpedia.org/resource/Academy_Awards> <http://dbpedia.org/property/year> "1929"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://dbpedia.org/resource/Actrius> <http://dbpedia.org/property/name> "Actrius"@en .
+<http://dbpedia.org/resource/Actrius> <http://dbpedia.org/property/director> <http://dbpedia.org/resource/Ventura_Pons> .
+<http://dbpedia.org/resource/Actrius> <http://dbpedia.org/property/producer> "Ventura Pons"@en .
+<http://dbpedia.org/resource/Actrius> <http://dbpedia.org/property/writer> "Ventura Pons"@en .
+<http://dbpedia.org/resource/Actrius> <http://dbpedia.org/property/writer> "Josep Maria Benet i Jornet"@en .
+<http://dbpedia.org/resource/Actrius> <http://dbpedia.org/property/starring> <http://dbpedia.org/resource/Núria_Espert> .
+<http://dbpedia.org/resource/Actrius> <http://dbpedia.org/property/starring> "Rosa Maria Sardà"@en .
+<http://dbpedia.org/resource/Actrius> <http://dbpedia.org/property/starring> "Anna Lizaran"@en .
+<http://dbpedia.org/resource/Actrius> <http://dbpedia.org/property/starring> <http://dbpedia.org/resource/Mercè_Pons> .
+<http://dbpedia.org/resource/Actrius> <http://dbpedia.org/property/music> <http://dbpedia.org/resource/Carles_Cases> .
+<http://dbpedia.org/resource/Actrius> <http://dbpedia.org/property/studio> <http://dbpedia.org/resource/Els_Films_de_la_Rambla,_S.A.> .
+<http://dbpedia.org/resource/Actrius> <http://dbpedia.org/property/runtime> "5400.0"^^<http://dbpedia.org/datatype/second> .
+<http://dbpedia.org/resource/Actrius> <http://dbpedia.org/property/country> "Spain"@en .
+<http://dbpedia.org/resource/Actrius> <http://dbpedia.org/property/language> "Catalan"@en .
+<http://dbpedia.org/resource/Allan_Dwan> <http://dbpedia.org/property/name> "Allan Dwan"@en .
+<http://dbpedia.org/resource/Allan_Dwan> <http://dbpedia.org/property/caption> "Dwan during his earlier years in silent film"@en .
+<http://dbpedia.org/resource/Allan_Dwan> <http://dbpedia.org/property/birthName> "Joseph Aloysius Dwan"@en .
+<http://dbpedia.org/resource/Allan_Dwan> <http://dbpedia.org/property/birthDate> "1885-04-03"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://dbpedia.org/resource/Allan_Dwan> <http://dbpedia.org/property/birthPlace> "Toronto, Canada"@en .
+<http://dbpedia.org/resource/Allan_Dwan> <http://dbpedia.org/property/deathDate> "1981-12-28"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://dbpedia.org/resource/Allan_Dwan> <http://dbpedia.org/property/deathPlace> "Los Angeles, United States"@en .
+<http://dbpedia.org/resource/Allan_Dwan> <http://dbpedia.org/property/spouse> <http://dbpedia.org/resource/Pauline_Bush_(actress)> .
+<http://dbpedia.org/resource/Allan_Dwan> <http://dbpedia.org/property/spouse> "Marie Shelton"@en .
+<http://dbpedia.org/resource/Allan_Dwan> <http://dbpedia.org/property/occupation> "Film director"@en .
+<http://dbpedia.org/resource/Allan_Dwan> <http://dbpedia.org/property/occupation> "Film producer"@en .
+<http://dbpedia.org/resource/Allan_Dwan> <http://dbpedia.org/property/occupation> "Screenwriter"@en .
+<http://dbpedia.org/resource/Allan_Dwan> <http://dbpedia.org/property/yearsActive> "1911"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://dbpedia.org/resource/Allan_Dwan> <http://dbpedia.org/property/id> "245385"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://dbpedia.org/resource/Allan_Dwan> <http://dbpedia.org/property/name> "Dwan, Allan"@en .
+<http://dbpedia.org/resource/Allan_Dwan> <http://dbpedia.org/property/alternativeNames> "Dwan, Joseph Aloysius"@en .
+<http://dbpedia.org/resource/Allan_Dwan> <http://dbpedia.org/property/shortDescription> "Film director, film producer, screenwriter"@en .
+<http://dbpedia.org/resource/Allan_Dwan> <http://dbpedia.org/property/dateOfBirth> "1885-04-03"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://dbpedia.org/resource/Allan_Dwan> <http://dbpedia.org/property/placeOfBirth> "Toronto, Ontario, Canada"@en .
+<http://dbpedia.org/resource/Allan_Dwan> <http://dbpedia.org/property/dateOfDeath> "1981-12-28"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://dbpedia.org/resource/Allan_Dwan> <http://dbpedia.org/property/placeOfDeath> "Los Angeles, California, United States"@en .
+<http://dbpedia.org/resource/Alain_Connes> <http://dbpedia.org/property/name> "Alain Connes"@en .
+<http://dbpedia.org/resource/Alain_Connes> <http://dbpedia.org/property/imageSize> "200"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://dbpedia.org/resource/Alain_Connes> <http://dbpedia.org/property/caption> "Alain Connes in 2004"@en .
+<http://dbpedia.org/resource/Alain_Connes> <http://dbpedia.org/property/birthDate> "1947-04-01"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://dbpedia.org/resource/Alain_Connes> <http://dbpedia.org/property/birthPlace> "Draguignan, France"@en .
+<http://dbpedia.org/resource/Alain_Connes> <http://dbpedia.org/property/nationality> "French"@en .
+<http://dbpedia.org/resource/Alain_Connes> <http://dbpedia.org/property/field> <http://dbpedia.org/resource/Mathematics> .
+<http://dbpedia.org/resource/Alain_Connes> <http://dbpedia.org/property/workInstitutions> "IHÉS, France"@en .
+<http://dbpedia.org/resource/Alain_Connes> <http://dbpedia.org/property/almaMater> "École Normale Supérieure, France"@en .
+<http://dbpedia.org/resource/Alain_Connes> <http://dbpedia.org/property/doctoralAdvisor> <http://dbpedia.org/resource/Jacques_Dixmier> .
+<http://dbpedia.org/resource/Alain_Connes> <http://dbpedia.org/property/doctoralStudents> <http://dbpedia.org/resource/Benjamin_Enriquez> .
+<http://dbpedia.org/resource/Alain_Connes> <http://dbpedia.org/property/doctoralStudents> <http://dbpedia.org/resource/Georges_Skandalis> .
+<http://dbpedia.org/resource/Alain_Connes> <http://dbpedia.org/property/doctoralStudents> <http://dbpedia.org/resource/Alain_Valette> .
+<http://dbpedia.org/resource/Alain_Connes> <http://dbpedia.org/property/doctoralStudents> <http://dbpedia.org/resource/Jean-Benoît_Bost> .
+<http://dbpedia.org/resource/Alain_Connes> <http://dbpedia.org/property/knownFor> <http://dbpedia.org/resource/Baum–Connes_conjecture> .
+<http://dbpedia.org/resource/Alain_Connes> <http://dbpedia.org/property/knownFor> <http://dbpedia.org/resource/Noncommutative_geometry> .
+<http://dbpedia.org/resource/Alain_Connes> <http://dbpedia.org/property/knownFor> "Operator algebras"@en .
+<http://dbpedia.org/resource/Alain_Connes> <http://dbpedia.org/property/prizes> <http://dbpedia.org/resource/Fields_Medal> .
+<http://dbpedia.org/resource/Alain_Connes> <http://dbpedia.org/property/prizes> <http://dbpedia.org/resource/Crafoord_Prize> .
+<http://dbpedia.org/resource/Alain_Connes> <http://dbpedia.org/property/prizes> "CNRS Gold Medal"@en .
+<http://dbpedia.org/resource/Alain_Connes> <http://dbpedia.org/property/id> "Alain+Connes"@en .
+<http://dbpedia.org/resource/Alain_Connes> <http://dbpedia.org/property/title> "Alain Connes"@en .
+<http://dbpedia.org/resource/Alain_Connes> <http://dbpedia.org/property/pnd> "112614760"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://dbpedia.org/resource/Alain_Connes> <http://dbpedia.org/property/lccn> "n/80/137982"@en .
+<http://dbpedia.org/resource/Alain_Connes> <http://dbpedia.org/property/viaf> "14800882"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://dbpedia.org/resource/Alain_Connes> <http://dbpedia.org/property/name> "Connes, Alain"@en .
+<http://dbpedia.org/resource/Alain_Connes> <http://dbpedia.org/property/shortDescription> "Mathematician"@en .
+<http://dbpedia.org/resource/Alain_Connes> <http://dbpedia.org/property/dateOfBirth> "1947-04-01"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://dbpedia.org/resource/Alain_Connes> <http://dbpedia.org/property/placeOfBirth> "Draguignan, France"@en .
+<http://dbpedia.org/resource/Ayn_Rand> <http://dbpedia.org/property/name> "Ayn Rand"@en .
+<http://dbpedia.org/resource/Ayn_Rand> <http://dbpedia.org/property/alt> "Half-length monochrome portrait photo of Ayn Rand, seated, holding a cigarette"@en .
+<http://dbpedia.org/resource/Ayn_Rand> <http://dbpedia.org/property/caption> "Ayn Rand in 1957"@en .
+<http://dbpedia.org/resource/Ayn_Rand> <http://dbpedia.org/property/pseudonym> "Ayn Rand"@en .
+<http://dbpedia.org/resource/Ayn_Rand> <http://dbpedia.org/property/birthName> "Alisa Zinov'yevna Rosenbaum"@en .
+<http://dbpedia.org/resource/Ayn_Rand> <http://dbpedia.org/property/birthDate> "1905-02-02"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://dbpedia.org/resource/Ayn_Rand> <http://dbpedia.org/property/birthPlace> <http://dbpedia.org/resource/Saint_Petersburg> .
+<http://dbpedia.org/resource/Ayn_Rand> <http://dbpedia.org/property/birthPlace> <http://dbpedia.org/resource/Russian_Empire> .
+<http://dbpedia.org/resource/Ayn_Rand> <http://dbpedia.org/property/deathDate> "1982-03-06"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://dbpedia.org/resource/Ayn_Rand> <http://dbpedia.org/property/deathPlace> "New York City, New York, U.S."@en .
+<http://dbpedia.org/resource/Ayn_Rand> <http://dbpedia.org/property/restingPlace> "Kensico Cemetery, Valhalla, New York, U.S."@en .
+<http://dbpedia.org/resource/Ayn_Rand> <http://dbpedia.org/property/occupation> "Writer"@en .
+<http://dbpedia.org/resource/Ayn_Rand> <http://dbpedia.org/property/ethnicity> "Russian Jewish"@en .
+<http://dbpedia.org/resource/Ayn_Rand> <http://dbpedia.org/property/language> "English"@en .
+<http://dbpedia.org/resource/Ayn_Rand> <http://dbpedia.org/property/period> "1934"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://dbpedia.org/resource/Ayn_Rand> <http://dbpedia.org/property/subject> <http://dbpedia.org/resource/Philosophy> .
+<http://dbpedia.org/resource/Ayn_Rand> <http://dbpedia.org/property/almaMater> <http://dbpedia.org/resource/Saint_Petersburg_State_University> .
+<http://dbpedia.org/resource/Ayn_Rand> <http://dbpedia.org/property/signature> "Sign Ayn Rand.png"@en .
+<http://dbpedia.org/resource/Ayn_Rand> <http://dbpedia.org/property/signatureAlt> "Ayn Rand"@en .
+<http://dbpedia.org/resource/Ayn_Rand> <http://dbpedia.org/property/voy> "no"@en .
+<http://dbpedia.org/resource/Ayn_Rand> <http://dbpedia.org/property/n> "no"@en .
+<http://dbpedia.org/resource/Ayn_Rand> <http://dbpedia.org/property/v> "no"@en .
+<http://dbpedia.org/resource/Ayn_Rand> <http://dbpedia.org/property/wikt> "no"@en .
+<http://dbpedia.org/resource/Ayn_Rand> <http://dbpedia.org/property/b> "no"@en .
+<http://dbpedia.org/resource/Ayn_Rand> <http://dbpedia.org/property/author> "yes"@en .
+<http://dbpedia.org/resource/Ayn_Rand> <http://dbpedia.org/property/gnd> "118903012"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://dbpedia.org/resource/Ayn_Rand> <http://dbpedia.org/property/lccn> "n/50/54463"@en .
+<http://dbpedia.org/resource/Ayn_Rand> <http://dbpedia.org/property/viaf> "98139134"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://dbpedia.org/resource/Ayn_Rand> <http://dbpedia.org/property/name> "Rand, Ayn"@en .
+<http://dbpedia.org/resource/Ayn_Rand> <http://dbpedia.org/property/alternativeNames> "Rosenbaum, Alisa Zinov'yevna; Алиса Зиновьевна Розенбаум"@en .
+<http://dbpedia.org/resource/Ayn_Rand> <http://dbpedia.org/property/shortDescription> "novelist, philosopher, playwright, screenwriter"@en .
+<http://dbpedia.org/resource/Ayn_Rand> <http://dbpedia.org/property/dateOfBirth> "1905-02-02"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://dbpedia.org/resource/Ayn_Rand> <http://dbpedia.org/property/placeOfBirth> "Saint Petersburg, Russian Empire"@en .
+<http://dbpedia.org/resource/Ayn_Rand> <http://dbpedia.org/property/dateOfDeath> "1982-03-06"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://dbpedia.org/resource/Ayn_Rand> <http://dbpedia.org/property/placeOfDeath> "New York City"@en .
+<http://dbpedia.org/resource/Academy_Award_for_Best_Production_Design> <http://dbpedia.org/property/name> "Academy Award for Best Production Design"@en .
+<http://dbpedia.org/resource/Academy_Award_for_Best_Production_Design> <http://dbpedia.org/property/presenter> <http://dbpedia.org/resource/Academy_of_Motion_Picture_Arts_and_Sciences> .
+<http://dbpedia.org/resource/Academy_Award_for_Best_Production_Design> <http://dbpedia.org/property/country> "United States"@en .
+<http://dbpedia.org/resource/Academy_Award_for_Best_Production_Design> <http://dbpedia.org/property/holder> <http://dbpedia.org/resource/Catherine_Martin_(designer)> .
+<http://dbpedia.org/resource/Academy_Award_for_Best_Production_Design> <http://dbpedia.org/property/holder> <http://dbpedia.org/resource/Beverley_Dunn> .
+<http://dbpedia.org/resource/Academy_Award_for_Best_Production_Design> <http://dbpedia.org/property/holder> "The Great Gatsby"@en .
+<http://dbpedia.org/resource/Academy_Award_for_Best_Production_Design> <http://dbpedia.org/property/website> <http://www.oscars.org> .
+<http://dbpedia.org/resource/Agricultural_science> <http://dbpedia.org/property/name> "Agronomist"@en .
+<http://dbpedia.org/resource/Agricultural_science> <http://dbpedia.org/property/caption> "An agronomist measures and records corn growth and other processes."@en .
+<http://dbpedia.org/resource/Agricultural_science> <http://dbpedia.org/property/officialNames> "agronomist"@en .
+<http://dbpedia.org/resource/Agricultural_science> <http://dbpedia.org/property/officialNames> "agricultural scientist"@en .
+<http://dbpedia.org/resource/Agricultural_science> <http://dbpedia.org/property/officialNames> "crop scientist"@en .
+<http://dbpedia.org/resource/Agricultural_science> <http://dbpedia.org/property/type> <http://dbpedia.org/resource/Profession> .
+<http://dbpedia.org/resource/Agricultural_science> <http://dbpedia.org/property/activitySector> "agriculture, agronomy"@en .
+<http://dbpedia.org/resource/Agricultural_science> <http://dbpedia.org/property/competencies> "technical knowledge, sense of analysis"@en .
+<http://dbpedia.org/resource/Agricultural_science> <http://dbpedia.org/property/employmentField> "food industry, science, research and development"@en .
+<http://dbpedia.org/resource/Agricultural_science> <http://dbpedia.org/property/relatedOccupation> "see [[#Fields or related disciplines"@en .
+<http://dbpedia.org/resource/Animation> <http://dbpedia.org/property/by> "no"@en .
+<http://dbpedia.org/resource/Animation> <http://dbpedia.org/property/onlinebooks> "no"@en .
+<http://dbpedia.org/resource/Animation> <http://dbpedia.org/property/others> "no"@en .
+<http://dbpedia.org/resource/Animation> <http://dbpedia.org/property/about> "yes"@en .
+<http://dbpedia.org/resource/Animation> <http://dbpedia.org/property/label> "Animation"@en .
+<http://dbpedia.org/resource/Algeria> <http://dbpedia.org/property/conventionalLongName> "People's Democratic Republic of Algeria"@en .
+<http://dbpedia.org/resource/Algeria> <http://dbpedia.org/property/nativeName> "الجمهورية الجزائرية الديمقراطية الشعبية"@en .
+<http://dbpedia.org/resource/Algeria> <http://dbpedia.org/property/commonName> "Algeria"@en .
+<http://dbpedia.org/resource/Algeria> <http://dbpedia.org/property/nationalAnthem> "\"Kassaman\""@en .
+<http://dbpedia.org/resource/Algeria> <http://dbpedia.org/property/nationalAnthem> "by: Moufdi Zakaria"@en .
+<http://dbpedia.org/resource/Algeria> <http://dbpedia.org/property/imageFlag> "Flag of Algeria.svg"@en .
+<http://dbpedia.org/resource/Algeria> <http://dbpedia.org/property/imageCoat> "Algeria emb .svg"@en .
+<http://dbpedia.org/resource/Algeria> <http://dbpedia.org/property/symbolType> "Emblem"@en .
+<http://dbpedia.org/resource/Algeria> <http://dbpedia.org/property/imageMap> "Algeria .svg"@en .
+<http://dbpedia.org/resource/Algeria> <http://dbpedia.org/property/imageMap> "Algeria - Location Map  - DZA - UNOCHA.svg"@en .
+<http://dbpedia.org/resource/Algeria> <http://dbpedia.org/property/officialLanguages> <http://dbpedia.org/resource/Arabic> .
+<http://dbpedia.org/resource/Algeria> <http://dbpedia.org/property/languagesType> "Other languages"@en .
+<http://dbpedia.org/resource/Algeria> <http://dbpedia.org/property/officialReligion> <http://dbpedia.org/resource/Sunni_Islam> .
+<http://dbpedia.org/resource/Algeria> <http://dbpedia.org/property/capital> <http://dbpedia.org/resource/Algiers> .
+<http://dbpedia.org/resource/Algeria> <http://dbpedia.org/property/latd> "36"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://dbpedia.org/resource/Algeria> <http://dbpedia.org/property/latm> "42"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://dbpedia.org/resource/Algeria> <http://dbpedia.org/property/latns> "N"@en .
+<http://dbpedia.org/resource/Algeria> <http://dbpedia.org/property/longd> "3"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://dbpedia.org/resource/Algeria> <http://dbpedia.org/property/longm> "13"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://dbpedia.org/resource/Algeria> <http://dbpedia.org/property/longew> "E"@en .
+<http://dbpedia.org/resource/Algeria> <http://dbpedia.org/property/largestCity> "capital"@en .
+<http://dbpedia.org/resource/Algeria> <http://dbpedia.org/property/governmentType> <http://dbpedia.org/resource/Unitary_state> .
+<http://dbpedia.org/resource/Algeria> <http://dbpedia.org/property/governmentType> <http://dbpedia.org/resource/Semi-presidential_system> .
+<http://dbpedia.org/resource/Algeria> <http://dbpedia.org/property/governmentType> <http://dbpedia.org/resource/Republic> .
+<http://dbpedia.org/resource/Algeria> <http://dbpedia.org/property/leaderTitle> <http://dbpedia.org/resource/President_of_Algeria> .
+<http://dbpedia.org/resource/Algeria> <http://dbpedia.org/property/leaderName> <http://dbpedia.org/resource/Abdelaziz_Bouteflika> .
+<http://dbpedia.org/resource/Algeria> <http://dbpedia.org/property/leaderTitle> <http://dbpedia.org/resource/Prime_Minister_of_Algeria> .
+<http://dbpedia.org/resource/Algeria> <http://dbpedia.org/property/leaderName> <http://dbpedia.org/resource/Youcef_Yousfi> .
+<http://dbpedia.org/resource/Algeria> <http://dbpedia.org/property/legislature> <http://dbpedia.org/resource/Parliament_of_Algeria> .
+<http://dbpedia.org/resource/Algeria> <http://dbpedia.org/property/upperHouse> <http://dbpedia.org/resource/Council_of_the_Nation> .
+<http://dbpedia.org/resource/Algeria> <http://dbpedia.org/property/sovereigntyType> "Independence"@en .
+<http://dbpedia.org/resource/Algeria> <http://dbpedia.org/property/establishedEvent> "Recognized"@en .
+<http://dbpedia.org/resource/Algeria> <http://dbpedia.org/property/establishedDate> "1962-07-03"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://dbpedia.org/resource/Algeria> <http://dbpedia.org/property/establishedEvent> "Declared"@en .
+<http://dbpedia.org/resource/Algeria> <http://dbpedia.org/property/establishedDate> "1962-07-05"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://dbpedia.org/resource/Algeria> <http://dbpedia.org/property/areaRank> "10"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://dbpedia.org/resource/Algeria> <http://dbpedia.org/property/areaMagnitude> "1000000000000"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://dbpedia.org/resource/Algeria> <http://dbpedia.org/property/areaKm> "2381741"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://dbpedia.org/resource/Algeria> <http://dbpedia.org/property/areaSqMi> "919595"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://dbpedia.org/resource/Algeria> <http://dbpedia.org/property/percentWater> "negligible"@en .
+<http://dbpedia.org/resource/Algeria> <http://dbpedia.org/property/populationEstimate> "38700000"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://dbpedia.org/resource/Algeria> <http://dbpedia.org/property/populationEstimateYear> "2014"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://dbpedia.org/resource/Algeria> <http://dbpedia.org/property/populationEstimateRank> "34"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://dbpedia.org/resource/Algeria> <http://dbpedia.org/property/populationCensus> "37900000"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://dbpedia.org/resource/Algeria> <http://dbpedia.org/property/populationCensusYear> "2013"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://dbpedia.org/resource/Algeria> <http://dbpedia.org/property/populationDensityKm> "15.9"^^<http://www.w3.org/2001/XMLSchema#double> .
+
+=============last 500 lines=============
+
+<http://dbpedia.org/resource/Trying_Again_(TV_Series)> <http://dbpedia.org/property/creator> "Dan Sefton"@en .
+<http://dbpedia.org/resource/Trying_Again_(TV_Series)> <http://dbpedia.org/property/creator> "Abigail Wilson"@en .
+<http://dbpedia.org/resource/Trying_Again_(TV_Series)> <http://dbpedia.org/property/writer> <http://dbpedia.org/resource/Simon_Blackwell> .
+<http://dbpedia.org/resource/Trying_Again_(TV_Series)> <http://dbpedia.org/property/director> <http://dbpedia.org/resource/Ian_Fitzgibbon> .
+<http://dbpedia.org/resource/Trying_Again_(TV_Series)> <http://dbpedia.org/property/director> "Sam Cadman"@en .
+<http://dbpedia.org/resource/Trying_Again_(TV_Series)> <http://dbpedia.org/property/director> <http://dbpedia.org/resource/Ian_Fitzgibbon_(director)> .
+<http://dbpedia.org/resource/Trying_Again_(TV_Series)> <http://dbpedia.org/property/starring> <http://dbpedia.org/resource/Jo_Joyner> .
+<http://dbpedia.org/resource/Trying_Again_(TV_Series)> <http://dbpedia.org/property/starring> <http://dbpedia.org/resource/Chris_Addison_(actor)> .
+<http://dbpedia.org/resource/Trying_Again_(TV_Series)> <http://dbpedia.org/property/composer> <http://dbpedia.org/resource/Richie_Webb> .
+<http://dbpedia.org/resource/Trying_Again_(TV_Series)> <http://dbpedia.org/property/composer> "Matt Katz"@en .
+<http://dbpedia.org/resource/Trying_Again_(TV_Series)> <http://dbpedia.org/property/country> "United Kingdom"@en .
+<http://dbpedia.org/resource/Trying_Again_(TV_Series)> <http://dbpedia.org/property/language> "English"@en .
+<http://dbpedia.org/resource/Trying_Again_(TV_Series)> <http://dbpedia.org/property/numSeries> "1"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://dbpedia.org/resource/Trying_Again_(TV_Series)> <http://dbpedia.org/property/numEpisodes> "8"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://dbpedia.org/resource/Trying_Again_(TV_Series)> <http://dbpedia.org/property/listEpisodes> "#Episodes"@en .
+<http://dbpedia.org/resource/Trying_Again_(TV_Series)> <http://dbpedia.org/property/runtime> "1800.0"^^<http://dbpedia.org/datatype/second> .
+<http://dbpedia.org/resource/Trying_Again_(TV_Series)> <http://dbpedia.org/property/company> "Feelgood Fiction"@en .
+<http://dbpedia.org/resource/Trying_Again_(TV_Series)> <http://dbpedia.org/property/network> <http://dbpedia.org/resource/Sky_Living> .
+<http://dbpedia.org/resource/Trying_Again_(TV_Series)> <http://dbpedia.org/property/pictureFormat> "16"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://dbpedia.org/resource/Trying_Again_(TV_Series)> <http://dbpedia.org/property/firstAired> "2014-04-24"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://dbpedia.org/resource/Trying_Again_(TV_Series)> <http://dbpedia.org/property/lastAired> "present"@en .
+<http://dbpedia.org/resource/Trying_Again_(TV_Series)> <http://dbpedia.org/property/website> <http://skyliving.sky.com/gates> .
+<http://dbpedia.org/resource/Trying_Again_(TV_Series)> <http://dbpedia.org/property/episodenumber> "2"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://dbpedia.org/resource/Trying_Again_(TV_Series)> <http://dbpedia.org/property/title> "Episode 1.2"@en .
+<http://dbpedia.org/resource/Trying_Again_(TV_Series)> <http://dbpedia.org/property/directedby> <http://dbpedia.org/resource/Ian_Fitzgibbon_(director)> .
+<http://dbpedia.org/resource/Trying_Again_(TV_Series)> <http://dbpedia.org/property/writtenby> "Simon Blackwell"@en .
+<http://dbpedia.org/resource/Trying_Again_(TV_Series)> <http://dbpedia.org/property/originalairdate> "2014-04-24"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://dbpedia.org/resource/Trying_Again_(TV_Series)> <http://dbpedia.org/property/aux> "Unknown"@en .
+<http://dbpedia.org/resource/Trying_Again_(TV_Series)> <http://dbpedia.org/property/shortsummary> "Meg and Gail team up to ruin the sale of a house."@en .
+<http://dbpedia.org/resource/Trying_Again_(TV_Series)> <http://dbpedia.org/property/linecolor> "B4CFEC"@en .
+<http://dbpedia.org/resource/Trying_Again_(TV_Series)> <http://dbpedia.org/property/episodenumber> "3"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://dbpedia.org/resource/Trying_Again_(TV_Series)> <http://dbpedia.org/property/title> "Episode 1.3"@en .
+<http://dbpedia.org/resource/Trying_Again_(TV_Series)> <http://dbpedia.org/property/originalairdate> "2014-05-01"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://dbpedia.org/resource/Trying_Again_(TV_Series)> <http://dbpedia.org/property/shortsummary> "The house sale is signed."@en .
+<http://dbpedia.org/resource/Trying_Again_(TV_Series)> <http://dbpedia.org/property/episodenumber> "4"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://dbpedia.org/resource/Trying_Again_(TV_Series)> <http://dbpedia.org/property/title> "Episode 1.4"@en .
+<http://dbpedia.org/resource/Trying_Again_(TV_Series)> <http://dbpedia.org/property/originalairdate> "2014-05-08"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://dbpedia.org/resource/Trying_Again_(TV_Series)> <http://dbpedia.org/property/shortsummary> "A white lie becomes uncontrollable."@en .
+<http://dbpedia.org/resource/Call_of_Duty:_Modern_Warfare_:_Mobilized> <http://dbpedia.org/property/developer> <http://dbpedia.org/resource/N-Space> .
+<http://dbpedia.org/resource/Call_of_Duty:_Modern_Warfare_:_Mobilized> <http://dbpedia.org/property/publisher> <http://dbpedia.org/resource/Activision> .
+<http://dbpedia.org/resource/Call_of_Duty:_Modern_Warfare_:_Mobilized> <http://dbpedia.org/property/series> "Call of Duty"@en .
+<http://dbpedia.org/resource/Call_of_Duty:_Modern_Warfare_:_Mobilized> <http://dbpedia.org/property/platforms> <http://dbpedia.org/resource/Nintendo_DS> .
+<http://dbpedia.org/resource/Call_of_Duty:_Modern_Warfare_:_Mobilized> <http://dbpedia.org/property/released> "2009-11-10"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://dbpedia.org/resource/Call_of_Duty:_Modern_Warfare_:_Mobilized> <http://dbpedia.org/property/genre> <http://dbpedia.org/resource/First-person_shooter> .
+<http://dbpedia.org/resource/Call_of_Duty:_Modern_Warfare_:_Mobilized> <http://dbpedia.org/property/modes> <http://dbpedia.org/resource/Single-player_video_game> .
+<http://dbpedia.org/resource/Call_of_Duty:_Modern_Warfare_:_Mobilized> <http://dbpedia.org/property/modes> <http://dbpedia.org/resource/Online_game> .
+<http://dbpedia.org/resource/Call_of_Duty:_Modern_Warfare_:_Mobilized> <http://dbpedia.org/property/modes> <http://dbpedia.org/resource/Multiplayer_video_game> .
+<http://dbpedia.org/resource/Call_of_Duty:_Modern_Warfare_:_Mobilized> <http://dbpedia.org/property/media> <http://dbpedia.org/resource/Nintendo_DS> .
+<http://dbpedia.org/resource/Call_of_Duty:_Modern_Warfare_:_Mobilized> <http://dbpedia.org/property/input> <http://dbpedia.org/resource/Gamepad> .
+<http://dbpedia.org/resource/Call_of_Duty:_Modern_Warfare_:_Mobilized> <http://dbpedia.org/property/input> <http://dbpedia.org/resource/Touchscreen> .
+<http://dbpedia.org/resource/Call_of_Duty:_Modern_Warfare_:_Mobilized> <http://dbpedia.org/property/gr> "74.5"^^<http://dbpedia.org/datatype/perCent> .
+<http://dbpedia.org/resource/Call_of_Duty:_Modern_Warfare_:_Mobilized> <http://dbpedia.org/property/mc> "73.0"^^<http://dbpedia.org/datatype/perCent> .
+<http://dbpedia.org/resource/Call_of_Duty:_Modern_Warfare_:_Mobilized> <http://dbpedia.org/property/1up> "B"@en .
+<http://dbpedia.org/resource/Call_of_Duty:_Modern_Warfare_:_Mobilized> <http://dbpedia.org/property/gamezone> "8.5"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://dbpedia.org/resource/Call_of_Duty:_Modern_Warfare_:_Mobilized> <http://dbpedia.org/property/gi> "6.5"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://dbpedia.org/resource/Call_of_Duty:_Modern_Warfare_:_Mobilized> <http://dbpedia.org/property/gradar> "6"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://dbpedia.org/resource/Call_of_Duty:_Modern_Warfare_:_Mobilized> <http://dbpedia.org/property/ign> "8"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://dbpedia.org/resource/Call_of_Duty:_Modern_Warfare_:_Mobilized> <http://dbpedia.org/property/onm> "8"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://dbpedia.org/resource/1956–57_York_City_F.C._season> <http://dbpedia.org/property/club> "York City F.C."@en .
+<http://dbpedia.org/resource/1956–57_York_City_F.C._season> <http://dbpedia.org/property/season> "1956"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://dbpedia.org/resource/1956–57_York_City_F.C._season> <http://dbpedia.org/property/chairman> "Hugh Kitchin"@en .
+<http://dbpedia.org/resource/1956–57_York_City_F.C._season> <http://dbpedia.org/property/manager> <http://dbpedia.org/resource/Sam_Bartram> .
+<http://dbpedia.org/resource/1956–57_York_City_F.C._season> <http://dbpedia.org/property/stdtitle> "Ground"@en .
+<http://dbpedia.org/resource/1956–57_York_City_F.C._season> <http://dbpedia.org/property/stadium> <http://dbpedia.org/resource/Bootham_Crescent> .
+<http://dbpedia.org/resource/1956–57_York_City_F.C._season> <http://dbpedia.org/property/league> <http://dbpedia.org/resource/Football_League_Third_Division_North> .
+<http://dbpedia.org/resource/1956–57_York_City_F.C._season> <http://dbpedia.org/property/leagueResult> "7"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://dbpedia.org/resource/1956–57_York_City_F.C._season> <http://dbpedia.org/property/cup> <http://dbpedia.org/resource/FA_Cup> .
+<http://dbpedia.org/resource/1956–57_York_City_F.C._season> <http://dbpedia.org/property/cup1Result> "Second round"@en .
+<http://dbpedia.org/resource/1956–57_York_City_F.C._season> <http://dbpedia.org/property/leagueTopscorer> <http://dbpedia.org/resource/Arthur_Bottom> .
+<http://dbpedia.org/resource/1956–57_York_City_F.C._season> <http://dbpedia.org/property/seasonTopscorer> "Arthur Bottom"@en .
+<http://dbpedia.org/resource/1956–57_York_City_F.C._season> <http://dbpedia.org/property/highestAttendance> "--08-20"^^<http://www.w3.org/2001/XMLSchema#gMonthDay> .
+<http://dbpedia.org/resource/1956–57_York_City_F.C._season> <http://dbpedia.org/property/lowestAttendance> "--04-20"^^<http://www.w3.org/2001/XMLSchema#gMonthDay> .
+<http://dbpedia.org/resource/1956–57_York_City_F.C._season> <http://dbpedia.org/property/averageAttendance> "9414"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://dbpedia.org/resource/1956–57_York_City_F.C._season> <http://dbpedia.org/property/prevseason> "1955"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://dbpedia.org/resource/1956–57_York_City_F.C._season> <http://dbpedia.org/property/nextseason> "1957"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://dbpedia.org/resource/Ameen_Mian_Qaudri> <http://dbpedia.org/property/name> "Ameen Mian Quadri"@en .
+<http://dbpedia.org/resource/Ameen_Mian_Qaudri> <http://dbpedia.org/property/nationality> <http://dbpedia.org/resource/India> .
+<http://dbpedia.org/resource/Ameen_Mian_Qaudri> <http://dbpedia.org/property/education> "Doctorate"@en .
+<http://dbpedia.org/resource/Ameen_Mian_Qaudri> <http://dbpedia.org/property/occupation> "Spiritual & religious Leader of the Qadiriyya  Barkatiya Silsila ; Ahlus Sunnah Sufis in India"@en .
+<http://dbpedia.org/resource/Ameen_Mian_Qaudri> <http://dbpedia.org/property/religion> <http://dbpedia.org/resource/Sunni_Islam> .
+<http://dbpedia.org/resource/Ameen_Mian_Qaudri> <http://dbpedia.org/property/religion> <http://dbpedia.org/resource/Sufi> .
+<http://dbpedia.org/resource/Ameen_Mian_Qaudri> <http://dbpedia.org/property/almaMater> <http://dbpedia.org/resource/Aligarh_Muslim_University> .
+<http://dbpedia.org/resource/Ameen_Mian_Qaudri> <http://dbpedia.org/property/name> "Qaudri, Syed Ameen Mian"@en .
+<http://dbpedia.org/resource/Ameen_Mian_Qaudri> <http://dbpedia.org/property/shortDescription> "Amin-e-Millat"@en .
+<http://dbpedia.org/resource/Ameen_Mian_Qaudri> <http://dbpedia.org/property/placeOfBirth> "Marehra"@en .
+<http://dbpedia.org/resource/Akhtar_Raza_Khan> <http://dbpedia.org/property/notability> <http://dbpedia.org/resource/Islamic_scholar> .
+<http://dbpedia.org/resource/Akhtar_Raza_Khan> <http://dbpedia.org/property/title> "Taj-ush-Shariah"@en .
+<http://dbpedia.org/resource/Akhtar_Raza_Khan> <http://dbpedia.org/property/name> "Akhtar Raza Khan"@en .
+<http://dbpedia.org/resource/Akhtar_Raza_Khan> <http://dbpedia.org/property/birthDate> "1943-02-02"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://dbpedia.org/resource/Akhtar_Raza_Khan> <http://dbpedia.org/property/birthPlace> "Bareilly, Indian"@en .
+<http://dbpedia.org/resource/Akhtar_Raza_Khan> <http://dbpedia.org/property/region> <http://dbpedia.org/resource/South_Asia> .
+<http://dbpedia.org/resource/Akhtar_Raza_Khan> <http://dbpedia.org/property/maddhab> <http://dbpedia.org/resource/Hanafi> .
+<http://dbpedia.org/resource/Akhtar_Raza_Khan> <http://dbpedia.org/property/schoolTradition> <http://dbpedia.org/resource/Sunni> .
+<http://dbpedia.org/resource/Akhtar_Raza_Khan> <http://dbpedia.org/property/mainInterests> <http://dbpedia.org/resource/Aqeedah> .
+<http://dbpedia.org/resource/Akhtar_Raza_Khan> <http://dbpedia.org/property/mainInterests> <http://dbpedia.org/resource/Fiqh> .
+<http://dbpedia.org/resource/Akhtar_Raza_Khan> <http://dbpedia.org/property/mainInterests> <http://dbpedia.org/resource/Tasawwuf> .
+<http://dbpedia.org/resource/Akhtar_Raza_Khan> <http://dbpedia.org/property/designation> "Grand Mufti"@en .
+<http://dbpedia.org/resource/Akhtar_Raza_Khan> <http://dbpedia.org/property/name> "Raza, Akhtar"@en .
+<http://dbpedia.org/resource/Akhtar_Raza_Khan> <http://dbpedia.org/property/shortDescription> "Indian Grand Mufti"@en .
+<http://dbpedia.org/resource/Akhtar_Raza_Khan> <http://dbpedia.org/property/dateOfBirth> "1943-11-23"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://dbpedia.org/resource/Akhtar_Raza_Khan> <http://dbpedia.org/property/placeOfBirth> <http://dbpedia.org/resource/Bareilly> .
+<http://dbpedia.org/resource/Akhtar_Raza_Khan> <http://dbpedia.org/property/placeOfBirth> <http://dbpedia.org/resource/India> .
+<http://dbpedia.org/resource/Cordylostigma> <http://dbpedia.org/property/regnum> <http://dbpedia.org/resource/Plantae> .
+<http://dbpedia.org/resource/Cordylostigma> <http://dbpedia.org/property/unrankedDivisio> <http://dbpedia.org/resource/Angiosperms> .
+<http://dbpedia.org/resource/Cordylostigma> <http://dbpedia.org/property/unrankedClassis> <http://dbpedia.org/resource/Eudicots> .
+<http://dbpedia.org/resource/Cordylostigma> <http://dbpedia.org/property/unrankedOrdo> <http://dbpedia.org/resource/Asterids> .
+<http://dbpedia.org/resource/Cordylostigma> <http://dbpedia.org/property/ordo> <http://dbpedia.org/resource/Gentianales> .
+<http://dbpedia.org/resource/Cordylostigma> <http://dbpedia.org/property/familia> <http://dbpedia.org/resource/Rubiaceae> .
+<http://dbpedia.org/resource/Cordylostigma> <http://dbpedia.org/property/genus> "Cordylostigma"@en .
+<http://dbpedia.org/resource/Cordylostigma> <http://dbpedia.org/property/genusAuthority> "Groeninckx & Dessein"@en .
+<http://dbpedia.org/resource/Cordylostigma> <http://dbpedia.org/property/typeSpecies> "Kohautia longifolia"@en .
+<http://dbpedia.org/resource/Cordylostigma> <http://dbpedia.org/property/typeSpeciesAuthority> "Klotzsch."@en .
+<http://dbpedia.org/resource/Cordylostigma> <http://dbpedia.org/property/synonyms> "Kohautia sect. Pachystigma (Bremek.)"@en .
+<http://dbpedia.org/resource/Fazl_Ahmad_Khan> <http://dbpedia.org/property/name> "Fazl Ahmad Khan"@en .
+<http://dbpedia.org/resource/Fazl_Ahmad_Khan> <http://dbpedia.org/property/shortDescription> "Indain Sufi saint"@en .
+<http://dbpedia.org/resource/Fazl_Ahmad_Khan> <http://dbpedia.org/property/dateOfBirth> "1857"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://dbpedia.org/resource/Fazl_Ahmad_Khan> <http://dbpedia.org/property/placeOfBirth> "Raipur, Uttar Pradesh, India"@en .
+<http://dbpedia.org/resource/Fazl_Ahmad_Khan> <http://dbpedia.org/property/dateOfDeath> "1907-11-30"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://dbpedia.org/resource/Sergio_Molina_Rivero> <http://dbpedia.org/property/name> "Sergio"@en .
+<http://dbpedia.org/resource/Sergio_Molina_Rivero> <http://dbpedia.org/property/fullname> "Sergio Molina Rivero"@en .
+<http://dbpedia.org/resource/Sergio_Molina_Rivero> <http://dbpedia.org/property/birthDate> "1983-11-14"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://dbpedia.org/resource/Sergio_Molina_Rivero> <http://dbpedia.org/property/birthPlace> <http://dbpedia.org/resource/Spain> .
+<http://dbpedia.org/resource/Sergio_Molina_Rivero> <http://dbpedia.org/property/position> <http://dbpedia.org/resource/Forward> .
+<http://dbpedia.org/resource/Sergio_Molina_Rivero> <http://dbpedia.org/property/currentclub> <http://dbpedia.org/resource/Panthrakikos_F.C.> .
+<http://dbpedia.org/resource/Sergio_Molina_Rivero> <http://dbpedia.org/property/years> "2013"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://dbpedia.org/resource/Sergio_Molina_Rivero> <http://dbpedia.org/property/clubs> <http://dbpedia.org/resource/Panthrakikos_F.C.> .
+<http://dbpedia.org/resource/Sergio_Molina_Rivero> <http://dbpedia.org/property/caps> "4"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://dbpedia.org/resource/Sergio_Molina_Rivero> <http://dbpedia.org/property/goals> "1"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://dbpedia.org/resource/Sergio_Molina_Rivero> <http://dbpedia.org/property/pcupdate> "2014-04-20"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://dbpedia.org/resource/Sergio_Molina_Rivero> <http://dbpedia.org/property/name> "Molina, Sergio"@en .
+<http://dbpedia.org/resource/Sergio_Molina_Rivero> <http://dbpedia.org/property/shortDescription> "Spanish footballer"@en .
+<http://dbpedia.org/resource/Sergio_Molina_Rivero> <http://dbpedia.org/property/placeOfBirth> "Spain"@en .
+<http://dbpedia.org/resource/Ambergris_(Bob's_Burgers)> <http://dbpedia.org/property/title> "Ambergris"@en .
+<http://dbpedia.org/resource/Ambergris_(Bob's_Burgers)> <http://dbpedia.org/property/series> <http://dbpedia.org/resource/Bob's_Burgers> .
+<http://dbpedia.org/resource/Ambergris_(Bob's_Burgers)> <http://dbpedia.org/property/season> "4"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://dbpedia.org/resource/Ambergris_(Bob's_Burgers)> <http://dbpedia.org/property/seriesNo> "63"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://dbpedia.org/resource/Ambergris_(Bob's_Burgers)> <http://dbpedia.org/property/episode> "18"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://dbpedia.org/resource/Ambergris_(Bob's_Burgers)> <http://dbpedia.org/property/writer> "Scott Jacobson"@en .
+<http://dbpedia.org/resource/Ambergris_(Bob's_Burgers)> <http://dbpedia.org/property/director> "Don MacKinnon"@en .
+<http://dbpedia.org/resource/Ambergris_(Bob's_Burgers)> <http://dbpedia.org/property/production> "4"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://dbpedia.org/resource/Ambergris_(Bob's_Burgers)> <http://dbpedia.org/property/airdate> "2014-04-06"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://dbpedia.org/resource/Ambergris_(Bob's_Burgers)> <http://dbpedia.org/property/guests> "Zach Galifianakis as Felix Fischoeder"@en .
+<http://dbpedia.org/resource/Ambergris_(Bob's_Burgers)> <http://dbpedia.org/property/guests> "Bill Hader as Mickey"@en .
+<http://dbpedia.org/resource/Ambergris_(Bob's_Burgers)> <http://dbpedia.org/property/prev> <http://dbpedia.org/resource/The_Equestranauts> .
+<http://dbpedia.org/resource/Ambergris_(Bob's_Burgers)> <http://dbpedia.org/property/next> "The Kids Run Away"@en .
+<http://dbpedia.org/resource/Ambergris_(Bob's_Burgers)> <http://dbpedia.org/property/episodeList> <http://dbpedia.org/resource/Bob's_Burgers_(season_4)> .
+<http://dbpedia.org/resource/Ambergris_(Bob's_Burgers)> <http://dbpedia.org/property/episodeList> <http://dbpedia.org/resource/List_of_Bob's_Burgers_episodes> .
+<http://dbpedia.org/resource/2014_FIA_WTCC_Race_of_Hungary> <http://dbpedia.org/property/raceName> "FIA WTCC Race of Hungary"@en .
+<http://dbpedia.org/resource/2014_FIA_WTCC_Race_of_Hungary> <http://dbpedia.org/property/country> "Hungary"@en .
+<http://dbpedia.org/resource/2014_FIA_WTCC_Race_of_Hungary> <http://dbpedia.org/property/date> "--05-04"^^<http://www.w3.org/2001/XMLSchema#gMonthDay> .
+<http://dbpedia.org/resource/2014_FIA_WTCC_Race_of_Hungary> <http://dbpedia.org/property/year> "2014"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://dbpedia.org/resource/2014_FIA_WTCC_Race_of_Hungary> <http://dbpedia.org/property/roundNo> "3"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://dbpedia.org/resource/2014_FIA_WTCC_Race_of_Hungary> <http://dbpedia.org/property/seasonNo> "12"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://dbpedia.org/resource/2014_FIA_WTCC_Race_of_Hungary> <http://dbpedia.org/property/location> <http://dbpedia.org/resource/Mogyoród> .
+<http://dbpedia.org/resource/2014_FIA_WTCC_Race_of_Hungary> <http://dbpedia.org/property/location> <http://dbpedia.org/resource/Hungary> .
+<http://dbpedia.org/resource/2014_FIA_WTCC_Race_of_Hungary> <http://dbpedia.org/property/courseName> <http://dbpedia.org/resource/Hungaroring> .
+<http://dbpedia.org/resource/2014_FIA_WTCC_Race_of_Hungary> <http://dbpedia.org/property/courseKm> "4.381"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://dbpedia.org/resource/2014_FIA_WTCC_Race_of_Hungary> <http://dbpedia.org/property/distancer1Laps> "14"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://dbpedia.org/resource/2014_FIA_WTCC_Race_of_Hungary> <http://dbpedia.org/property/distancer2Laps> "14"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://dbpedia.org/resource/2014_FIA_WTCC_Race_of_Hungary> <http://dbpedia.org/property/nameOfRace> "FIA WTCC Race of Hungary"@en .
+<http://dbpedia.org/resource/2014_FIA_WTCC_Race_of_Hungary> <http://dbpedia.org/property/yearOfRace> "2014"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://dbpedia.org/resource/2014_FIA_WTCC_Race_of_Hungary> <http://dbpedia.org/property/previousRaceInSeason> "2014"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://dbpedia.org/resource/2014_FIA_WTCC_Race_of_Hungary> <http://dbpedia.org/property/nextRaceInSeason> "2014"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://dbpedia.org/resource/2014_FIA_WTCC_Race_of_Hungary> <http://dbpedia.org/property/previousYear'sRace> "2013"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://dbpedia.org/resource/2014_FIA_WTCC_Race_of_Hungary> <http://dbpedia.org/property/nextYear'sRace> "2015"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://dbpedia.org/resource/Surgical_Neurology> <http://dbpedia.org/property/title> "Surgical Neurology"@en .
+<http://dbpedia.org/resource/Surgical_Neurology> <http://dbpedia.org/property/cover> "185"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://dbpedia.org/resource/Surgical_Neurology> <http://dbpedia.org/property/discipline> <http://dbpedia.org/resource/Neurosurgery> .
+<http://dbpedia.org/resource/Surgical_Neurology> <http://dbpedia.org/property/discipline> <http://dbpedia.org/resource/Neurology> .
+<http://dbpedia.org/resource/Surgical_Neurology> <http://dbpedia.org/property/discipline> <http://dbpedia.org/resource/Neuroscience> .
+<http://dbpedia.org/resource/Surgical_Neurology> <http://dbpedia.org/property/abbreviation> "Surg Neurol"@en .
+<http://dbpedia.org/resource/Surgical_Neurology> <http://dbpedia.org/property/publisher> "Elsevier, Inc."@en .
+<http://dbpedia.org/resource/Surgical_Neurology> <http://dbpedia.org/property/language> "English"@en .
+<http://dbpedia.org/resource/Surgical_Neurology> <http://dbpedia.org/property/frequency> "Monthly"@en .
+<http://dbpedia.org/resource/Surgical_Neurology> <http://dbpedia.org/property/history> "1973"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://dbpedia.org/resource/Surgical_Neurology> <http://dbpedia.org/property/impact> "1.86"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://dbpedia.org/resource/Surgical_Neurology> <http://dbpedia.org/property/website> <http://surgicalneurology-online.com/> .
+<http://dbpedia.org/resource/Surgical_Neurology> <http://dbpedia.org/property/link> <http://surgicalneurology-online.com/issues> .
+<http://dbpedia.org/resource/Surgical_Neurology> <http://dbpedia.org/property/link1Name> "Online access"@en .
+<http://dbpedia.org/resource/Surgical_Neurology> <http://dbpedia.org/property/link> <http://www.sciencedirect.com/science/journal/00903019> .
+<http://dbpedia.org/resource/Surgical_Neurology> <http://dbpedia.org/property/link2Name> "Archives"@en .
+<http://dbpedia.org/resource/Surgical_Neurology> <http://dbpedia.org/property/oclc> "1784905"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://dbpedia.org/resource/Surgical_Neurology> <http://dbpedia.org/property/lccn> "73640943"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://dbpedia.org/resource/Surgical_Neurology> <http://dbpedia.org/property/coden> "SGNRAI"@en .
+<http://dbpedia.org/resource/Surgical_Neurology> <http://dbpedia.org/property/issn> "90"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://dbpedia.org/resource/Surgical_Neurology> <http://dbpedia.org/property/eissn> "1879"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://dbpedia.org/resource/Austin_Catholic_High_School_(Michigan)> <http://dbpedia.org/property/name> "Austin Catholic High School"@en .
+<http://dbpedia.org/resource/Austin_Catholic_High_School_(Michigan)> <http://dbpedia.org/property/streetaddress> "2412526"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://dbpedia.org/resource/Austin_Catholic_High_School_(Michigan)> <http://dbpedia.org/property/city> <http://dbpedia.org/resource/Ray_Township,_Michigan> .
+<http://dbpedia.org/resource/Austin_Catholic_High_School_(Michigan)> <http://dbpedia.org/property/state> <http://dbpedia.org/resource/Michigan> .
+<http://dbpedia.org/resource/Austin_Catholic_High_School_(Michigan)> <http://dbpedia.org/property/zipcode> "48096"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://dbpedia.org/resource/Austin_Catholic_High_School_(Michigan)> <http://dbpedia.org/property/district> <http://dbpedia.org/resource/Roman_Catholic_Archdiocese_of_Detroit> .
+<http://dbpedia.org/resource/Austin_Catholic_High_School_(Michigan)> <http://dbpedia.org/property/authority> <http://dbpedia.org/resource/Augustinians> .
+<http://dbpedia.org/resource/Austin_Catholic_High_School_(Michigan)> <http://dbpedia.org/property/religion> <http://dbpedia.org/resource/Christian> .
+<http://dbpedia.org/resource/Austin_Catholic_High_School_(Michigan)> <http://dbpedia.org/property/denomination> <http://dbpedia.org/resource/Roman_Catholic> .
+<http://dbpedia.org/resource/Austin_Catholic_High_School_(Michigan)> <http://dbpedia.org/property/type> <http://dbpedia.org/resource/Private_school> .
+<http://dbpedia.org/resource/Austin_Catholic_High_School_(Michigan)> <http://dbpedia.org/property/type> <http://dbpedia.org/resource/Coeducational> .
+<http://dbpedia.org/resource/Austin_Catholic_High_School_(Michigan)> <http://dbpedia.org/property/grades> "9"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://dbpedia.org/resource/Austin_Catholic_High_School_(Michigan)> <http://dbpedia.org/property/teamName> "Crusaders"@en .
+<http://dbpedia.org/resource/Austin_Catholic_High_School_(Michigan)> <http://dbpedia.org/property/colors> "Blue and White"@en .
+<http://dbpedia.org/resource/Austin_Catholic_High_School_(Michigan)> <http://dbpedia.org/property/homepage> <http://www.austincatholicacademy.org> .
+<http://dbpedia.org/resource/2014–15_Argentine_Primera_División_season> <http://dbpedia.org/property/competition> <http://dbpedia.org/resource/Argentine_Primera_División> .
+<http://dbpedia.org/resource/2014–15_Argentine_Primera_División_season> <http://dbpedia.org/property/season> "2014"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://dbpedia.org/resource/2014–15_Argentine_Primera_División_season> <http://dbpedia.org/property/winners> <http://dbpedia.org/resource/TBD> .
+<http://dbpedia.org/resource/2014–15_Argentine_Primera_División_season> <http://dbpedia.org/property/relegated> "No relegation this season"@en .
+<http://dbpedia.org/resource/2014–15_Argentine_Primera_División_season> <http://dbpedia.org/property/continentalcup> "2015"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://dbpedia.org/resource/2014–15_Argentine_Primera_División_season> <http://dbpedia.org/property/continentalcup1Qualifiers> <http://dbpedia.org/resource/TBD> .
+<http://dbpedia.org/resource/2014–15_Argentine_Primera_División_season> <http://dbpedia.org/property/continentalcup2Qualifiers> <http://dbpedia.org/resource/TBD> .
+<http://dbpedia.org/resource/2014–15_Argentine_Primera_División_season> <http://dbpedia.org/property/prevseason> "2013"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://dbpedia.org/resource/2014–15_Argentine_Primera_División_season> <http://dbpedia.org/property/nextseason> "2015"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://dbpedia.org/resource/2014–15_Argentine_Primera_División_season> <http://dbpedia.org/property/float> "right"@en .
+<http://dbpedia.org/resource/2014–15_Argentine_Primera_División_season> <http://dbpedia.org/property/width> "275"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://dbpedia.org/resource/2014–15_Argentine_Primera_División_season> <http://dbpedia.org/property/caption> "Locations of the 2014 Torneo de Transición teams outside Greater Buenos Aires."@en .
+<http://dbpedia.org/resource/2014–15_Argentine_Primera_División_season> <http://dbpedia.org/property/caption> "Locations of the 2013−14 Primera División teams within Greater Buenos Aires."@en .
+<http://dbpedia.org/resource/2014–15_Saint_Joseph's_Hawks_men's_basketball_team> <http://dbpedia.org/property/mode> "Basketball"@en .
+<http://dbpedia.org/resource/2014–15_Saint_Joseph's_Hawks_men's_basketball_team> <http://dbpedia.org/property/year> "2014"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://dbpedia.org/resource/2014–15_Saint_Joseph's_Hawks_men's_basketball_team> <http://dbpedia.org/property/prevYear> "2013"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://dbpedia.org/resource/2014–15_Saint_Joseph's_Hawks_men's_basketball_team> <http://dbpedia.org/property/nextYear> "2015"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://dbpedia.org/resource/2014–15_Saint_Joseph's_Hawks_men's_basketball_team> <http://dbpedia.org/property/team> "Saint Joseph's Hawks"@en .
+<http://dbpedia.org/resource/2014–15_Saint_Joseph's_Hawks_men's_basketball_team> <http://dbpedia.org/property/imagesize> "200"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://dbpedia.org/resource/2014–15_Saint_Joseph's_Hawks_men's_basketball_team> <http://dbpedia.org/property/conference> "Atlantic 10 Conference"@en .
+<http://dbpedia.org/resource/2014–15_Saint_Joseph's_Hawks_men's_basketball_team> <http://dbpedia.org/property/shortconference> "A-10"@en .
+<http://dbpedia.org/resource/2014–15_Saint_Joseph's_Hawks_men's_basketball_team> <http://dbpedia.org/property/record> "0"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://dbpedia.org/resource/2014–15_Saint_Joseph's_Hawks_men's_basketball_team> <http://dbpedia.org/property/confrecord> "0"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://dbpedia.org/resource/2014–15_Saint_Joseph's_Hawks_men's_basketball_team> <http://dbpedia.org/property/headcoach> <http://dbpedia.org/resource/Phil_Martelli> .
+<http://dbpedia.org/resource/2014–15_Saint_Joseph's_Hawks_men's_basketball_team> <http://dbpedia.org/property/hcyear> "20"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://dbpedia.org/resource/2014–15_Saint_Joseph's_Hawks_men's_basketball_team> <http://dbpedia.org/property/asstcoach> "Mark Bass"@en .
+<http://dbpedia.org/resource/2014–15_Saint_Joseph's_Hawks_men's_basketball_team> <http://dbpedia.org/property/asstcoach> "David Duda"@en .
+<http://dbpedia.org/resource/2014–15_Saint_Joseph's_Hawks_men's_basketball_team> <http://dbpedia.org/property/asstcoach> "Geoff Arnold"@en .
+<http://dbpedia.org/resource/2014–15_Saint_Joseph's_Hawks_men's_basketball_team> <http://dbpedia.org/property/stadiumarena> <http://dbpedia.org/resource/Hagan_Arena> .
+<http://dbpedia.org/resource/2014–15_Saint_Joseph's_Hawks_men's_basketball_team> <http://dbpedia.org/property/recruit> "Eric Paschall"@en .
+<http://dbpedia.org/resource/2014–15_Saint_Joseph's_Hawks_men's_basketball_team> <http://dbpedia.org/property/position> <http://dbpedia.org/resource/Power_forward> .
+<http://dbpedia.org/resource/2014–15_Saint_Joseph's_Hawks_men's_basketball_team> <http://dbpedia.org/property/hometown> "Dobbs Ferry, NY"@en .
+<http://dbpedia.org/resource/2014–15_Saint_Joseph's_Hawks_men's_basketball_team> <http://dbpedia.org/property/highschool> "Dobbs Ferry High School"@en .
+<http://dbpedia.org/resource/2014–15_Saint_Joseph's_Hawks_men's_basketball_team> <http://dbpedia.org/property/feet> "6"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://dbpedia.org/resource/2014–15_Saint_Joseph's_Hawks_men's_basketball_team> <http://dbpedia.org/property/inches> "6"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://dbpedia.org/resource/2014–15_Saint_Joseph's_Hawks_men's_basketball_team> <http://dbpedia.org/property/weight> "205"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://dbpedia.org/resource/2014–15_Saint_Joseph's_Hawks_men's_basketball_team> <http://dbpedia.org/property/commitdate> "2013-04-04"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://dbpedia.org/resource/2014–15_Saint_Joseph's_Hawks_men's_basketball_team> <http://dbpedia.org/property/scoutStars> "3"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://dbpedia.org/resource/2014–15_Saint_Joseph's_Hawks_men's_basketball_team> <http://dbpedia.org/property/rivalsStars> "3"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://dbpedia.org/resource/2014–15_Saint_Joseph's_Hawks_men's_basketball_team> <http://dbpedia.org/property/espnGrade> "70"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://dbpedia.org/resource/2014–15_Saint_Joseph's_Hawks_men's_basketball_team> <http://dbpedia.org/property/recruit> "Nemanja Zarkovic"@en .
+<http://dbpedia.org/resource/2014–15_Saint_Joseph's_Hawks_men's_basketball_team> <http://dbpedia.org/property/position> <http://dbpedia.org/resource/Point_guard> .
+<http://dbpedia.org/resource/2014–15_Saint_Joseph's_Hawks_men's_basketball_team> <http://dbpedia.org/property/hometown> "Montreal, QE"@en .
+<http://dbpedia.org/resource/2014–15_Saint_Joseph's_Hawks_men's_basketball_team> <http://dbpedia.org/property/highschool> "Collège Jean-de-Brébeuf"@en .
+<http://dbpedia.org/resource/2014–15_Saint_Joseph's_Hawks_men's_basketball_team> <http://dbpedia.org/property/inches> "3"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://dbpedia.org/resource/2014–15_Saint_Joseph's_Hawks_men's_basketball_team> <http://dbpedia.org/property/weight> "195"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://dbpedia.org/resource/2014–15_Saint_Joseph's_Hawks_men's_basketball_team> <http://dbpedia.org/property/commitdate> "2014-04-16"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://dbpedia.org/resource/2014–15_Saint_Joseph's_Hawks_men's_basketball_team> <http://dbpedia.org/property/scoutStars> "N/A"@en .
+<http://dbpedia.org/resource/2014–15_Saint_Joseph's_Hawks_men's_basketball_team> <http://dbpedia.org/property/rivalsStars> "N/A"@en .
+<http://dbpedia.org/resource/2014–15_Saint_Joseph's_Hawks_men's_basketball_team> <http://dbpedia.org/property/espnGrade> "N/R"@en .
+<http://dbpedia.org/resource/2014–15_Saint_Joseph's_Hawks_men's_basketball_team> <http://dbpedia.org/property/rivalsRefTitle> "2014"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://dbpedia.org/resource/2014–15_Saint_Joseph's_Hawks_men's_basketball_team> <http://dbpedia.org/property/scoutRefTitle> "2014"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://dbpedia.org/resource/2014–15_Saint_Joseph's_Hawks_men's_basketball_team> <http://dbpedia.org/property/espnRefTitle> "2014"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://dbpedia.org/resource/2014–15_Saint_Joseph's_Hawks_men's_basketball_team> <http://dbpedia.org/property/accessdate> "4"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://dbpedia.org/resource/2014–15_Saint_Joseph's_Hawks_men's_basketball_team> <http://dbpedia.org/property/bball> "yes"@en .
+<http://dbpedia.org/resource/2014–15_Saint_Joseph's_Hawks_men's_basketball_team> <http://dbpedia.org/property/teamcolors> "y"@en .
+<http://dbpedia.org/resource/2014–15_Saint_Joseph's_Hawks_men's_basketball_team> <http://dbpedia.org/property/highSchool> "y"@en .
+<http://dbpedia.org/resource/2014–15_Saint_Joseph's_Hawks_men's_basketball_team> <http://dbpedia.org/property/headCoach> "* Phil Martelli"@en .
+<http://dbpedia.org/resource/2014–15_Saint_Joseph's_Hawks_men's_basketball_team> <http://dbpedia.org/property/asstCoach> "* Mark Bass \n* David Duda \n* Geoff Arnold"@en .
+<http://dbpedia.org/resource/List_of_Tomie_chapters> <http://dbpedia.org/property/withtitle> "yes"@en .
+<http://dbpedia.org/resource/List_of_Tomie_chapters> <http://dbpedia.org/property/language> "Japanese"@en .
+<http://dbpedia.org/resource/List_of_Tomie_chapters> <http://dbpedia.org/property/secondlanguage> "English"@en .
+<http://dbpedia.org/resource/List_of_Tomie_chapters> <http://dbpedia.org/property/linecolor> "DC143C"@en .
+<http://dbpedia.org/resource/List_of_Tomie_chapters> <http://dbpedia.org/property/volumenumber> "1"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://dbpedia.org/resource/List_of_Tomie_chapters> <http://dbpedia.org/property/originalreldate> "October 1997"@en .
+<http://dbpedia.org/resource/List_of_Tomie_chapters> <http://dbpedia.org/property/originalisbn> "4257903139"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://dbpedia.org/resource/List_of_Tomie_chapters> <http://dbpedia.org/property/licensedreldate> "2001-04-01"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://dbpedia.org/resource/List_of_Tomie_chapters> <http://dbpedia.org/property/licensedisbn> "1588990842"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://dbpedia.org/resource/List_of_Tomie_chapters> <http://dbpedia.org/property/chapterlistcol> "* 01.\n* 02.\n* 03."@en .
+<http://dbpedia.org/resource/List_of_Tomie_chapters> <http://dbpedia.org/property/chapterlistcol> "* 04.\n* 05.\n* 06."@en .
+<http://dbpedia.org/resource/List_of_Tomie_chapters> <http://dbpedia.org/property/originaltitle> "伊藤潤二恐怖マンガCollection 富江"@en .
+<http://dbpedia.org/resource/List_of_Tomie_chapters> <http://dbpedia.org/property/licensedtitle> "Tomie 1: The Junji Ito Horror Comic Collection"@en .
+<http://dbpedia.org/resource/List_of_Tomie_chapters> <http://dbpedia.org/property/volumenumber> "2"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://dbpedia.org/resource/List_of_Tomie_chapters> <http://dbpedia.org/property/originalreldate> "November 1997"@en .
+<http://dbpedia.org/resource/List_of_Tomie_chapters> <http://dbpedia.org/property/originalisbn> "4257903147"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://dbpedia.org/resource/List_of_Tomie_chapters> <http://dbpedia.org/property/licensedisbn> "1588990850"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://dbpedia.org/resource/List_of_Tomie_chapters> <http://dbpedia.org/property/chapterlistcol> "* 07.\n* 08.\n* 09."@en .
+<http://dbpedia.org/resource/List_of_Tomie_chapters> <http://dbpedia.org/property/chapterlistcol> "* 10.\n* 11.\n* 12."@en .
+<http://dbpedia.org/resource/List_of_Tomie_chapters> <http://dbpedia.org/property/originaltitle> "伊藤潤二恐怖マンガCollection 富江 Part 2"@en .
+<http://dbpedia.org/resource/List_of_Tomie_chapters> <http://dbpedia.org/property/licensedtitle> "Tomie 2: The Junji Ito Horror Comic Collection"@en .
+<http://dbpedia.org/resource/List_of_Tomie_chapters> <http://dbpedia.org/property/onelanguage> "yes"@en .
+<http://dbpedia.org/resource/List_of_Tomie_chapters> <http://dbpedia.org/property/reldate> "March 2001"@en .
+<http://dbpedia.org/resource/List_of_Tomie_chapters> <http://dbpedia.org/property/isbn> "4257904305"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://dbpedia.org/resource/List_of_Tomie_chapters> <http://dbpedia.org/property/chapterlistcol> "* 01.\n* 02.\n* 03.\n* 04."@en .
+<http://dbpedia.org/resource/List_of_Tomie_chapters> <http://dbpedia.org/property/chapterlistcol> "* 05.\n* 06.\n* 07.\n* 08."@en .
+<http://dbpedia.org/resource/List_of_Tomie_chapters> <http://dbpedia.org/property/originalreldate> "May 2002"@en .
+<http://dbpedia.org/resource/List_of_Tomie_chapters> <http://dbpedia.org/property/originalisbn> "4257721596"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://dbpedia.org/resource/List_of_Tomie_chapters> <http://dbpedia.org/property/licensedreldate> "2006-07-26"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://dbpedia.org/resource/List_of_Tomie_chapters> <http://dbpedia.org/property/licensedisbn> "1"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://dbpedia.org/resource/List_of_Tomie_chapters> <http://dbpedia.org/property/chapterlistcol> "* 01.\n* 02.\n* 03.\n* 04.\n* 05."@en .
+<http://dbpedia.org/resource/List_of_Tomie_chapters> <http://dbpedia.org/property/chapterlistcol> "* 06.\n* 07.\n* 08.\n* 09."@en .
+<http://dbpedia.org/resource/List_of_Tomie_chapters> <http://dbpedia.org/property/originaltitle> "伊藤潤二恐怖博物館 1"@en .
+<http://dbpedia.org/resource/List_of_Tomie_chapters> <http://dbpedia.org/property/licensedtitle> "Museum of Terror 1"@en .
+<http://dbpedia.org/resource/List_of_Tomie_chapters> <http://dbpedia.org/property/originalisbn> "425772160"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://dbpedia.org/resource/List_of_Tomie_chapters> <http://dbpedia.org/property/licensedreldate> "2006-09-06"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://dbpedia.org/resource/List_of_Tomie_chapters> <http://dbpedia.org/property/chapterlistcol> "* 10.\n* 11.\n* 12.\n* 13.\n* 14.\n* 15."@en .
+<http://dbpedia.org/resource/List_of_Tomie_chapters> <http://dbpedia.org/property/chapterlistcol> "* 16.\n* 17.\n* 18.\n* 19.\n* 20."@en .
+<http://dbpedia.org/resource/List_of_Tomie_chapters> <http://dbpedia.org/property/originaltitle> "伊藤潤二恐怖博物館 2"@en .
+<http://dbpedia.org/resource/List_of_Tomie_chapters> <http://dbpedia.org/property/licensedtitle> "Museum of Terror 2"@en .
+<http://dbpedia.org/resource/List_of_S.W.A.T._episodes> <http://dbpedia.org/property/episodenumber> "1"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://dbpedia.org/resource/List_of_S.W.A.T._episodes> <http://dbpedia.org/property/title> "The Killing Ground"@en .
+<http://dbpedia.org/resource/List_of_S.W.A.T._episodes> <http://dbpedia.org/property/directedby> "Harry Falk"@en .
+<http://dbpedia.org/resource/List_of_S.W.A.T._episodes> <http://dbpedia.org/property/writtenby> "Rick Husky"@en .
+<http://dbpedia.org/resource/List_of_S.W.A.T._episodes> <http://dbpedia.org/property/originalairdate> "1975-02-24"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://dbpedia.org/resource/List_of_S.W.A.T._episodes> <http://dbpedia.org/property/shortsummary> "Responding to an early morning call reporting a family dispute, Officer Jim Street and his partner fall prey to an ambush by three gunmen. It is just one in a series of ambushes which have plagued the police. In the aftermath of the shooting Street's partner is dead, and Jim tries out for an opening in a newly formed S.W.A.T. unit being headed by Lt. \"Hondo\" Harrelson. The team's first assignment is to find and stop the gunmen who have declared war on the city's police."@en .
+<http://dbpedia.org/resource/List_of_S.W.A.T._episodes> <http://dbpedia.org/property/linecolor> "CDAD00"@en .
+<http://dbpedia.org/resource/List_of_S.W.A.T._episodes> <http://dbpedia.org/property/episodenumber> "2"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://dbpedia.org/resource/List_of_S.W.A.T._episodes> <http://dbpedia.org/property/title> "A Coven of Killers"@en .
+<http://dbpedia.org/resource/List_of_S.W.A.T._episodes> <http://dbpedia.org/property/directedby> <http://dbpedia.org/resource/George_McCowan> .
+<http://dbpedia.org/resource/List_of_S.W.A.T._episodes> <http://dbpedia.org/property/writtenby> "Skip Webster"@en .
+<http://dbpedia.org/resource/List_of_S.W.A.T._episodes> <http://dbpedia.org/property/originalairdate> "1975-03-03"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://dbpedia.org/resource/List_of_S.W.A.T._episodes> <http://dbpedia.org/property/shortsummary> "A prisoner  is broken out of the prison ward of County General Hospital. His name is Joey Hopper, and his followers are called the Hopper Family; they consist of alienated youths who view Hopper as their spiritual leader. All escape routes out of the city have been closed, and S.W.A.T.'s job is to conduct a sweep of the city and find them. Hopper's goal is to exact revenge against all those who prosecuted him... including \"Hondo\" Harrelson."@en .
+<http://dbpedia.org/resource/List_of_S.W.A.T._episodes> <http://dbpedia.org/property/episodenumber> "3"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://dbpedia.org/resource/List_of_S.W.A.T._episodes> <http://dbpedia.org/property/title> "Death Carrier"@en .
+<http://dbpedia.org/resource/List_of_S.W.A.T._episodes> <http://dbpedia.org/property/writtenby> "Robert Hamner"@en .
+<http://dbpedia.org/resource/List_of_S.W.A.T._episodes> <http://dbpedia.org/property/originalairdate> "1975-03-10"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://dbpedia.org/resource/List_of_S.W.A.T._episodes> <http://dbpedia.org/property/shortsummary> "Frank Thomas is the third victim of a sniper shooting in the last year. S.W.A.T. begins investigating by looking for a common link between the victims. They discover that two of the men dated the same woman, Janet Warren. Harrelson's plan puts Jim Street undercover as her new boyfriend in an attempt to draw out the sniper."@en .
+<http://dbpedia.org/resource/List_of_S.W.A.T._episodes> <http://dbpedia.org/property/episodenumber> "4"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://dbpedia.org/resource/List_of_S.W.A.T._episodes> <http://dbpedia.org/property/title> "Pressure Cooker"@en .
+<http://dbpedia.org/resource/List_of_S.W.A.T._episodes> <http://dbpedia.org/property/directedby> "George McCowan"@en .
+<http://dbpedia.org/resource/List_of_S.W.A.T._episodes> <http://dbpedia.org/property/writtenby> "Walter Black"@en .
+<http://dbpedia.org/resource/List_of_S.W.A.T._episodes> <http://dbpedia.org/property/originalairdate> "1975-03-17"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://dbpedia.org/resource/List_of_S.W.A.T._episodes> <http://dbpedia.org/property/shortsummary> "Meredith Cooper is a freelance writer sent by the PR department to do a piece on S.W.A.T. for a magazine. She is anti-police and thinks they are a necessary evil but more evil than necessary. Harrelson and the team are told to cooperate and give her what she wants; human interest stories. While she is with them they respond to an APB on a missing girl who may have been kidnapped."@en .
+<http://dbpedia.org/resource/List_of_S.W.A.T._episodes> <http://dbpedia.org/property/episodenumber> "5"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://dbpedia.org/resource/List_of_S.W.A.T._episodes> <http://dbpedia.org/property/title> "Hit Men"@en .
+<http://dbpedia.org/resource/List_of_S.W.A.T._episodes> <http://dbpedia.org/property/writtenby> "David P. Harmon"@en .
+<http://dbpedia.org/resource/List_of_S.W.A.T._episodes> <http://dbpedia.org/property/originalairdate> "1975-03-24"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://dbpedia.org/resource/List_of_S.W.A.T._episodes> <http://dbpedia.org/property/shortsummary> "Vincent Ritchie is a drug dealer who has agreed to testify against his former associates. While being escorted into town there is an ambush, and during the gunfight he is shot and severely wounded. His future safety is now in the hands of S.W.A.T. The team sets up around-the-clock surveillance in the hospital wing while the gunmen make plans to hit."@en .
+<http://dbpedia.org/resource/List_of_S.W.A.T._episodes> <http://dbpedia.org/property/episodenumber> "6"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://dbpedia.org/resource/List_of_S.W.A.T._episodes> <http://dbpedia.org/property/title> "Jungle War"@en .
+<http://dbpedia.org/resource/List_of_S.W.A.T._episodes> <http://dbpedia.org/property/writtenby> "Charles Eric Johnson"@en .
+<http://dbpedia.org/resource/List_of_S.W.A.T._episodes> <http://dbpedia.org/property/originalairdate> "1975-03-31"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://dbpedia.org/resource/List_of_S.W.A.T._episodes> <http://dbpedia.org/property/shortsummary> "Bo Pritchard, Hondo's Vietnam buddy, is determined to replace Deke on Hondo's team. When Deke is wounded, Pritchard gets his chance, but Hondo must make a tough decision when his old friend's reckless behavior puts the team in danger."@en .
+<http://dbpedia.org/resource/List_of_S.W.A.T._episodes> <http://dbpedia.org/property/episodenumber> "7"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://dbpedia.org/resource/List_of_S.W.A.T._episodes> <http://dbpedia.org/property/title> "Death Score"@en .
+<http://dbpedia.org/resource/List_of_S.W.A.T._episodes> <http://dbpedia.org/property/directedby> "Phil Bondelli"@en .
+<http://dbpedia.org/resource/List_of_S.W.A.T._episodes> <http://dbpedia.org/property/writtenby> "Larry Alexander,"@en .
+<http://dbpedia.org/resource/List_of_S.W.A.T._episodes> <http://dbpedia.org/property/originalairdate> "1975-04-07"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://dbpedia.org/resource/List_of_S.W.A.T._episodes> <http://dbpedia.org/property/shortsummary> "Posing as terrorists seeking freedom for their comrades, a group of thugs take an entire pro basketball team hostage during a game. They aren't terrorists; they just hope to extort two million dollars from the team's owner."@en .
+<http://dbpedia.org/resource/List_of_S.W.A.T._episodes> <http://dbpedia.org/property/episodenumber> "8"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://dbpedia.org/resource/List_of_S.W.A.T._episodes> <http://dbpedia.org/property/title> "The Bravo Enigma"@en .
+<http://dbpedia.org/resource/List_of_S.W.A.T._episodes> <http://dbpedia.org/property/writtenby> "Herb Bermann"@en .
+<http://dbpedia.org/resource/List_of_S.W.A.T._episodes> <http://dbpedia.org/property/originalairdate> "1975-04-28"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://dbpedia.org/resource/List_of_S.W.A.T._episodes> <http://dbpedia.org/property/shortsummary> "The team's mission to stop the assassination of a U.S. Senator becomes even more urgent when it's learned that the killer hired for the job is carrying a deadly plague that could start an epidemic."@en .
+<http://dbpedia.org/resource/List_of_S.W.A.T._episodes> <http://dbpedia.org/property/episodenumber> "9"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://dbpedia.org/resource/List_of_S.W.A.T._episodes> <http://dbpedia.org/property/title> "The Steel-Plated Security Blanket"@en .
+<http://dbpedia.org/resource/List_of_S.W.A.T._episodes> <http://dbpedia.org/property/writtenby> <http://dbpedia.org/resource/Fred_Freiberger> .
+<http://dbpedia.org/resource/List_of_S.W.A.T._episodes> <http://dbpedia.org/property/originalairdate> "1975-05-05"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://dbpedia.org/resource/List_of_S.W.A.T._episodes> <http://dbpedia.org/property/shortsummary> "Thugs hijack an armored car and hide it somewhere in Los Angeles. S.W.A.T. borrows another armored car and tries to penetrate it for practice, but can't do it. The stolen car had no money inside, so S.W.A.T. assumes it will be used in a future heist. But where? A national beauty pageant with a million dollars in prizes provides the answer."@en .
+<http://dbpedia.org/resource/List_of_S.W.A.T._episodes> <http://dbpedia.org/property/shortsummary> "Farrah Fawcett plays an entrant in the beauty pageant."@en .
+<http://dbpedia.org/resource/List_of_S.W.A.T._episodes> <http://dbpedia.org/property/episodenumber> "10"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://dbpedia.org/resource/List_of_S.W.A.T._episodes> <http://dbpedia.org/property/title> "Omega One"@en .
+<http://dbpedia.org/resource/List_of_S.W.A.T._episodes> <http://dbpedia.org/property/directedby> <http://dbpedia.org/resource/Earl_Bellamy> .
+<http://dbpedia.org/resource/List_of_S.W.A.T._episodes> <http://dbpedia.org/property/writtenby> "Wilton Denmark,"@en .
+<http://dbpedia.org/resource/List_of_S.W.A.T._episodes> <http://dbpedia.org/property/writtenby> "Phyllis White,"@en .
+<http://dbpedia.org/resource/List_of_S.W.A.T._episodes> <http://dbpedia.org/property/writtenby> "Robert White"@en .
+<http://dbpedia.org/resource/List_of_S.W.A.T._episodes> <http://dbpedia.org/property/originalairdate> "1975-05-12"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://dbpedia.org/resource/List_of_S.W.A.T._episodes> <http://dbpedia.org/property/shortsummary> "A student protest is a cover for radicals to infiltrate a chemical plant and demand a million-dollar ransom. S.W.A.T. has only a short time to sneak in, rescue the hostages, and deactivate the programmed explosion."@en .
+<http://dbpedia.org/resource/List_of_S.W.A.T._episodes> <http://dbpedia.org/property/episodenumber> "11"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://dbpedia.org/resource/List_of_S.W.A.T._episodes> <http://dbpedia.org/property/title> "Blind Man's Bluff"@en .
+<http://dbpedia.org/resource/List_of_S.W.A.T._episodes> <http://dbpedia.org/property/originalairdate> "1975-05-19"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://dbpedia.org/resource/List_of_S.W.A.T._episodes> <http://dbpedia.org/property/shortsummary> "Harrelson is shot; although he survives, his vision is in question, so until he can be cleared he's assigned to a desk job."@en .
+<http://dbpedia.org/resource/List_of_S.W.A.T._episodes> <http://dbpedia.org/property/episodenumber> "12"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://dbpedia.org/resource/List_of_S.W.A.T._episodes> <http://dbpedia.org/property/title> "Sole Survivor"@en .
+<http://dbpedia.org/resource/List_of_S.W.A.T._episodes> <http://dbpedia.org/property/directedby> "Earl Bellamy"@en .
+<http://dbpedia.org/resource/List_of_S.W.A.T._episodes> <http://dbpedia.org/property/writtenby> "Sean Baine"@en .
+<http://dbpedia.org/resource/List_of_S.W.A.T._episodes> <http://dbpedia.org/property/originalairdate> "1975-05-26"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://dbpedia.org/resource/List_of_S.W.A.T._episodes> <http://dbpedia.org/property/shortsummary> "An ex-parole officer, familiar with S.W.A.T. procedures, puts together a gang of former convicts to steal two million dollars in rare gold coins."@en .
+<http://dbpedia.org/resource/List_of_S.W.A.T._episodes> <http://dbpedia.org/property/episodenumber> "13"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://dbpedia.org/resource/List_of_S.W.A.T._episodes> <http://dbpedia.org/property/title> "Deadly Tide: Part 1"@en .
+<http://dbpedia.org/resource/List_of_S.W.A.T._episodes> <http://dbpedia.org/property/directedby> <http://dbpedia.org/resource/Gene_Levitt> .
+<http://dbpedia.org/resource/List_of_S.W.A.T._episodes> <http://dbpedia.org/property/writtenby> "Benjamin Masselink"@en .
+<http://dbpedia.org/resource/List_of_S.W.A.T._episodes> <http://dbpedia.org/property/originalairdate> "1975-09-13"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://dbpedia.org/resource/List_of_S.W.A.T._episodes> <http://dbpedia.org/property/shortsummary> "The S.W.A.T. team is asked to help apprehend jewel thieves who are committing robberies, taking a female hostage each time, and making their escape underwater using SCUBA gear."@en .
+<http://dbpedia.org/resource/List_of_S.W.A.T._episodes> <http://dbpedia.org/property/linecolor> "70"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://dbpedia.org/resource/List_of_S.W.A.T._episodes> <http://dbpedia.org/property/episodenumber> "14"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://dbpedia.org/resource/List_of_S.W.A.T._episodes> <http://dbpedia.org/property/title> "Deadly Tide: Part 2"@en .
+<http://dbpedia.org/resource/List_of_S.W.A.T._episodes> <http://dbpedia.org/property/directedby> "Gene Levitt"@en .
+<http://dbpedia.org/resource/List_of_S.W.A.T._episodes> <http://dbpedia.org/property/shortsummary> "See Part 1, above."@en .
+<http://dbpedia.org/resource/List_of_S.W.A.T._episodes> <http://dbpedia.org/property/episodenumber> "15"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://dbpedia.org/resource/List_of_S.W.A.T._episodes> <http://dbpedia.org/property/title> "Kill S.W.A.T."@en .
+<http://dbpedia.org/resource/List_of_S.W.A.T._episodes> <http://dbpedia.org/property/originalairdate> "1975-09-20"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://dbpedia.org/resource/List_of_S.W.A.T._episodes> <http://dbpedia.org/property/shortsummary> "Following a training exercise with S.W.A.T. officers from another division, Lt. Harrelson and Street find the dead body of Officer Frank Baylor with the words \"Kill S.W.A.T.\" pinned to his chest. The murder of Baylor is the forerunner of a series of attempts to wipe out S.W.A.T. by two brothers and their fanatic sister-in-law, who is convinced that the death of her husband was the result of S.W.A.T. brutality."@en .
+<http://dbpedia.org/resource/List_of_S.W.A.T._episodes> <http://dbpedia.org/property/episodenumber> "16"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://dbpedia.org/resource/List_of_S.W.A.T._episodes> <http://dbpedia.org/property/title> "Dealers in Death"@en .
+<http://dbpedia.org/resource/List_of_S.W.A.T._episodes> <http://dbpedia.org/property/writtenby> "L.T. Bentwood,"@en .
+<http://dbpedia.org/resource/List_of_S.W.A.T._episodes> <http://dbpedia.org/property/originalairdate> "1975-09-27"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://dbpedia.org/resource/List_of_S.W.A.T._episodes> <http://dbpedia.org/property/shortsummary> "When local police are overwhelmed by a series of crimes committed using automatic weapons, S.W.A.T. is called in discover the source of the weapons."@en .
+<http://dbpedia.org/resource/List_of_S.W.A.T._episodes> <http://dbpedia.org/property/episodenumber> "17"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://dbpedia.org/resource/List_of_S.W.A.T._episodes> <http://dbpedia.org/property/title> "Time Bomb"@en .
+<http://dbpedia.org/resource/List_of_S.W.A.T._episodes> <http://dbpedia.org/property/writtenby> "Dick Nelson"@en .
+<http://dbpedia.org/resource/List_of_S.W.A.T._episodes> <http://dbpedia.org/property/originalairdate> "1975-10-04"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://dbpedia.org/resource/List_of_S.W.A.T._episodes> <http://dbpedia.org/property/shortsummary> "After completing S.W.A.T. exercises at a movie studio, Street realizes that he left his beeper on the lot. When he and his girlfriend return to collect it, they are trapped in the deserted studio by an embittered stuntman, who is planting explosives with the intent of blowing up the lot as an act of revenge."@en .
+<http://dbpedia.org/resource/List_of_S.W.A.T._episodes> <http://dbpedia.org/property/episodenumber> "18"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://dbpedia.org/resource/List_of_S.W.A.T._episodes> <http://dbpedia.org/property/title> "The Vendetta"@en .
+<http://dbpedia.org/resource/List_of_S.W.A.T._episodes> <http://dbpedia.org/property/directedby> "Bob Kelljan"@en .
+<http://dbpedia.org/resource/List_of_S.W.A.T._episodes> <http://dbpedia.org/property/writtenby> "Robert I. Holt"@en .
+<http://dbpedia.org/resource/List_of_S.W.A.T._episodes> <http://dbpedia.org/property/originalairdate> "1975-10-11"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://dbpedia.org/resource/List_of_S.W.A.T._episodes> <http://dbpedia.org/property/shortsummary> "Mel Lang and Ralph Costa have just been released from prison after serving five-year sentences. They were reported to police by construction magnate Carl Rigby and arrested by Sgt. Harrelson. When S.W.A.T. is called upon to assist police in evicting heavily armed brothers Will and Johnny Brewer from a home being taken over by Rigby, Lang and Costa see their opportunity to execute Rigby and Harrelson, and to create evidence pointing to the Brewer brothers."@en .
+<http://dbpedia.org/resource/List_of_S.W.A.T._episodes> <http://dbpedia.org/property/episodenumber> "19"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://dbpedia.org/resource/List_of_S.W.A.T._episodes> <http://dbpedia.org/property/title> "Criss-Cross"@en .
+<http://dbpedia.org/resource/List_of_S.W.A.T._episodes> <http://dbpedia.org/property/directedby> <http://dbpedia.org/resource/Fernando_Lamas> .
+<http://dbpedia.org/resource/List_of_S.W.A.T._episodes> <http://dbpedia.org/property/writtenby> <http://dbpedia.org/resource/Edward_J._Lakso> .
+<http://dbpedia.org/resource/List_of_S.W.A.T._episodes> <http://dbpedia.org/property/originalairdate> "1975-10-18"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://dbpedia.org/resource/List_of_S.W.A.T._episodes> <http://dbpedia.org/property/shortsummary> "Two transient teenagers seek shelter in the warehouse of Colby Electronics. While they are there, three men break in and the female teen anonymously calls police. Before fleeing, the boy gets a good look at the robbers, one of whom is Greg Colby, a prominent citizen and former U.S. Senator. Subsequently, Colby befriends Lt. Harrelson in an attempt to discover the identity of the teens, with the intent of killing them."@en .
+<http://dbpedia.org/resource/List_of_S.W.A.T._episodes> <http://dbpedia.org/property/episodenumber> "20"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://dbpedia.org/resource/List_of_S.W.A.T._episodes> <http://dbpedia.org/property/title> "Vigilante"@en .
+<http://dbpedia.org/resource/List_of_S.W.A.T._episodes> <http://dbpedia.org/property/directedby> "Bruce Bilson"@en .
+<http://dbpedia.org/resource/List_of_S.W.A.T._episodes> <http://dbpedia.org/property/originalairdate> "1975-10-25"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://dbpedia.org/resource/List_of_S.W.A.T._episodes> <http://dbpedia.org/property/shortsummary> "Paul Julian, a radio repairman and ham operator, has patched in on the S.W.A.T. radio band, where he listens in on calls. This allows him to arrive at crime scenes ahead of S.W.A.T. and find concealed observation positions. Bent on avenging his wife's murder, he kills two disarmed gunmen who have been talked into surrendering by Lt. Harrelson, and leaves S.W.A.T. facing intense media pressure and accusations that they are behind the senseless killings."@en .
+<http://dbpedia.org/resource/List_of_S.W.A.T._episodes> <http://dbpedia.org/property/episodenumber> "21"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://dbpedia.org/resource/List_of_S.W.A.T._episodes> <http://dbpedia.org/property/title> "Courthouse"@en .
+<http://dbpedia.org/resource/List_of_S.W.A.T._episodes> <http://dbpedia.org/property/directedby> <http://dbpedia.org/resource/Don_Weis> .
+<http://dbpedia.org/resource/List_of_S.W.A.T._episodes> <http://dbpedia.org/property/writtenby> "Robert I. Holt,"@en .
+<http://dbpedia.org/resource/List_of_S.W.A.T._episodes> <http://dbpedia.org/property/writtenby> "Jimmy Sangster"@en .
+<http://dbpedia.org/resource/List_of_S.W.A.T._episodes> <http://dbpedia.org/property/originalairdate> "1975-11-01"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://dbpedia.org/resource/List_of_S.W.A.T._episodes> <http://dbpedia.org/property/shortsummary> "When S.W.A.T. moves in to combat a race track heist involving a female hostage, Howard Wilson is captured while his accomplices Mike Simon and Frank Peterson escape. Wilson is on the brink of revealing the names of his accomplices when high-powered attorney Jason Bridges assures him that Simon and Peterson are planning to free him at all costs, even if the price involves the lives of court personnel when Wilson goes to trial."@en .
+<http://dbpedia.org/resource/List_of_S.W.A.T._episodes> <http://dbpedia.org/property/episodenumber> "22"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://dbpedia.org/resource/List_of_S.W.A.T._episodes> <http://dbpedia.org/property/title> "Ordeal"@en .
+<http://dbpedia.org/resource/List_of_S.W.A.T._episodes> <http://dbpedia.org/property/directedby> "Sutton Roley"@en .
+<http://dbpedia.org/resource/List_of_S.W.A.T._episodes> <http://dbpedia.org/property/originalairdate> "1975-11-08"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://dbpedia.org/resource/List_of_S.W.A.T._episodes> <http://dbpedia.org/property/shortsummary> "Lt. Harrelson and convicted dope dealer Johnny Rizi are stranded in very rough and remote terrain when the syndicate sabotages the helicopter in which Harrelson is transporting Rizi to jail. The Lieutenant is able to radio in their approximate location just prior to the radio dying, and the S.W.A.T. team and the syndicate racing to find the two, albeit with very different motives."@en .
+<http://dbpedia.org/resource/List_of_S.W.A.T._episodes> <http://dbpedia.org/property/episodenumber> "23"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://dbpedia.org/resource/List_of_S.W.A.T._episodes> <http://dbpedia.org/property/title> "Strike Force"@en .
+<http://dbpedia.org/resource/List_of_S.W.A.T._episodes> <http://dbpedia.org/property/originalairdate> "1975-11-15"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://dbpedia.org/resource/List_of_S.W.A.T._episodes> <http://dbpedia.org/property/shortsummary> "Lt. Harrelson and his team are assigned to handle security for General James Woodward, a World War II hero who now leads a racist paramilitary group."@en .
+<http://dbpedia.org/resource/List_of_S.W.A.T._episodes> <http://dbpedia.org/property/episodenumber> "24"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://dbpedia.org/resource/List_of_S.W.A.T._episodes> <http://dbpedia.org/property/title> "The Swinger"@en .
+<http://dbpedia.org/resource/List_of_S.W.A.T._episodes> <http://dbpedia.org/property/directedby> <http://dbpedia.org/resource/Barry_Crane> .
+<http://dbpedia.org/resource/List_of_S.W.A.T._episodes> <http://dbpedia.org/property/writtenby> "Jack V. Fogarty"@en .
+<http://dbpedia.org/resource/List_of_S.W.A.T._episodes> <http://dbpedia.org/property/originalairdate> "1975-11-22"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://dbpedia.org/resource/List_of_S.W.A.T._episodes> <http://dbpedia.org/property/shortsummary> "Prosecutor John Stevens holds secret information which could convict two syndicate chieftains of capital crimes. Because Stevens insists on saying nothing until the grand jury convenes, and because police believe the mob has put out a major contract on Stevens, S.W.A.T. is assigned to protect him. However, the syndicate's enforcer plans to abduct the Stevens' daughter Tory and keep the girl until the father turns over the evidence. Oblivious to the danger, Tory is out for kicks as both the police and the syndicate to track her down."@en .
+<http://dbpedia.org/resource/List_of_S.W.A.T._episodes> <http://dbpedia.org/property/episodenumber> "25"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://dbpedia.org/resource/List_of_S.W.A.T._episodes> <http://dbpedia.org/property/title> "Terror Ship"@en .
+<http://dbpedia.org/resource/List_of_S.W.A.T._episodes> <http://dbpedia.org/property/writtenby> "S. Rodger Olenicoff"@en .
+<http://dbpedia.org/resource/List_of_S.W.A.T._episodes> <http://dbpedia.org/property/originalairdate> "1975-11-29"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://dbpedia.org/resource/List_of_S.W.A.T._episodes> <http://dbpedia.org/property/shortsummary> "A group of men steal a tugboat and barge laden with twelve cases of TNT, killing the tugboat captain in the process. They later threaten to blow up a Nobel Prize winning marine biologist and her research vessel unless they are given one million dollars."@en .
+<http://dbpedia.org/resource/List_of_S.W.A.T._episodes> <http://dbpedia.org/property/episodenumber> "26"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://dbpedia.org/resource/List_of_S.W.A.T._episodes> <http://dbpedia.org/property/title> "Murder by Fire"@en .
+<http://dbpedia.org/resource/List_of_S.W.A.T._episodes> <http://dbpedia.org/property/directedby> <http://dbpedia.org/resource/William_Crain_(filmmaker)> .
+<http://dbpedia.org/resource/List_of_S.W.A.T._episodes> <http://dbpedia.org/property/writtenby> <http://dbpedia.org/resource/John_Cherry_Monks,_Jr.> .
+<http://dbpedia.org/resource/List_of_S.W.A.T._episodes> <http://dbpedia.org/property/originalairdate> "1975-12-06"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://dbpedia.org/resource/List_of_S.W.A.T._episodes> <http://dbpedia.org/property/shortsummary> "Marco, an arsonist-killer posing as a fireman, engineers a fire during Southern California's dry season in the area's most affluent neighborhood, Sherwood Heights. While looting the evacuated home of a wealthy couple, one of Marco's men shoots a fireman. When S.W.A.T. is called in to locate the sniper, McCabe is shot and gravely wounded. S.W.A.T. kills one of the snipers, but Marco and the rest of his gang escape with a truckload of stolen merchandise."@en .
+<http://dbpedia.org/resource/List_of_S.W.A.T._episodes> <http://dbpedia.org/property/episodenumber> "27"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://dbpedia.org/resource/List_of_S.W.A.T._episodes> <http://dbpedia.org/property/title> "Silent Night, Deadly Night"@en .
+<http://dbpedia.org/resource/List_of_S.W.A.T._episodes> <http://dbpedia.org/property/originalairdate> "1975-12-13"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://dbpedia.org/resource/List_of_S.W.A.T._episodes> <http://dbpedia.org/property/shortsummary> "Lt. Harrelson's old friend, millionairess Doris Wainwright Bristol, has brought expensive jewelry into the hospital where she is undergoing cosmetic surgery. Her bodyguard, Joe DeLeon, is slain after he spots criminal Frank Malloy posing as a dying patient; all part of a plot to steal Doris' jewelry. The S.W.A.T. team, who along with Hilda are at the hospital preparing for the children's Christmas party, find themselves forced into action when the discovery of DeLeon's body leaves Doris unprotected."@en .
+<http://dbpedia.org/resource/List_of_S.W.A.T._episodes> <http://dbpedia.org/property/episodenumber> "28"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://dbpedia.org/resource/List_of_S.W.A.T._episodes> <http://dbpedia.org/property/title> "The Running Man: Part 1"@en .
+<http://dbpedia.org/resource/List_of_S.W.A.T._episodes> <http://dbpedia.org/property/originalairdate> "1976-01-24"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://dbpedia.org/resource/List_of_S.W.A.T._episodes> <http://dbpedia.org/property/shortsummary> "David Neal, a government agent who spent four years on an undercover assignment posing as a crime boss's lieutenant, is marked for death after his testimony sends the kingpin to prison for life. After the trial, a $500,000 bounty is put on the head of Neal, who begins a new life in a small town as Ben Jordan. However, his police instincts come to the fore and he soon finds himself embroiled in another battle with organized crime."@en .
+<http://dbpedia.org/resource/List_of_S.W.A.T._episodes> <http://dbpedia.org/property/episodenumber> "29"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://dbpedia.org/resource/List_of_S.W.A.T._episodes> <http://dbpedia.org/property/title> "The Running Man: Part 2"@en .
+<http://dbpedia.org/resource/List_of_S.W.A.T._episodes> <http://dbpedia.org/property/episodenumber> "30"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://dbpedia.org/resource/List_of_S.W.A.T._episodes> <http://dbpedia.org/property/title> "Lessons in Fear"@en .
+<http://dbpedia.org/resource/List_of_S.W.A.T._episodes> <http://dbpedia.org/property/directedby> "Dick Moder"@en .
+<http://dbpedia.org/resource/List_of_S.W.A.T._episodes> <http://dbpedia.org/property/writtenby> "Daniel B. Ullman"@en .
+<http://dbpedia.org/resource/List_of_S.W.A.T._episodes> <http://dbpedia.org/property/originalairdate> "1976-01-31"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://dbpedia.org/resource/List_of_S.W.A.T._episodes> <http://dbpedia.org/property/shortsummary> "Lt. Harrelson and his team are called to investigate two robberies in which powerful drills, cutting equipment and dynamite are stolen. During the investigation, Luca sets up a double date for himself and McCabe with Sharon Merlingdale, a witness from another case and a student at a prestigious all-girls school, and a classmate. The thieves, who are planning to use the school as an entry point to a bank vault across the street, were counting on the school being empty for the weekend. When the girls agree to stay the weekend for their dates, they unwittingly place themselves and Luca in grave danger."@en .
+<http://dbpedia.org/resource/List_of_S.W.A.T._episodes> <http://dbpedia.org/property/episodenumber> "31"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://dbpedia.org/resource/List_of_S.W.A.T._episodes> <http://dbpedia.org/property/title> "Deadly Weapons"@en .
+<http://dbpedia.org/resource/List_of_S.W.A.T._episodes> <http://dbpedia.org/property/directedby> <http://dbpedia.org/resource/Reza_Badiyi> .
+<http://dbpedia.org/resource/List_of_S.W.A.T._episodes> <http://dbpedia.org/property/originalairdate> "1976-02-21"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://dbpedia.org/resource/List_of_S.W.A.T._episodes> <http://dbpedia.org/property/shortsummary> "Bud Haskins, whose father John is moving large quantities of unmarked automatic weapons as part of his warehouse operation, agrees to help three men crack open the safe in the elder Haskins' warehouse. Bud has had a falling out with his father and wishes to steal some of the money in the safe. When the thieves attempt to steal some of the weapons, Bud is killed trying to stop them. While S.W.A.T. is assigned to investigate the burglary-murder as part of their ongoing effort to locate the source of the weapons, John Haskins recruits his Eastern mob partners to find his son's killers."@en .
+<http://dbpedia.org/resource/List_of_S.W.A.T._episodes> <http://dbpedia.org/property/episodenumber> "32"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://dbpedia.org/resource/List_of_S.W.A.T._episodes> <http://dbpedia.org/property/title> "The Chinese Connection"@en .
+<http://dbpedia.org/resource/List_of_S.W.A.T._episodes> <http://dbpedia.org/property/writtenby> "George F. Slavin"@en .
+<http://dbpedia.org/resource/List_of_S.W.A.T._episodes> <http://dbpedia.org/property/originalairdate> "1976-02-28"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://dbpedia.org/resource/List_of_S.W.A.T._episodes> <http://dbpedia.org/property/shortsummary> "Lt. Eddie Chew is assigned to aid Lt. Harrelson when an elderly shop owner is beaten by an illegal Chinese alien working as a shakedown man for Ronald Parker; Parker is the Caucasian leader of what appears to be an all-Oriental crime syndicate engaged in a protection ring. Lt. Harrelson begins to doubt Chew's integrity when it becomes obvious that the Chinatown criminals are being given secrets of his investigation."@en .
+<http://dbpedia.org/resource/List_of_S.W.A.T._episodes> <http://dbpedia.org/property/episodenumber> "33"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://dbpedia.org/resource/List_of_S.W.A.T._episodes> <http://dbpedia.org/property/title> "Dragons and Owls"@en .
+<http://dbpedia.org/resource/List_of_S.W.A.T._episodes> <http://dbpedia.org/property/directedby> <http://dbpedia.org/resource/Bernard_McEveety> .
+<http://dbpedia.org/resource/List_of_S.W.A.T._episodes> <http://dbpedia.org/property/writtenby> "Bob Mitchell,"@en .
+<http://dbpedia.org/resource/List_of_S.W.A.T._episodes> <http://dbpedia.org/property/writtenby> "Esther Mitchell"@en .
+<http://dbpedia.org/resource/List_of_S.W.A.T._episodes> <http://dbpedia.org/property/originalairdate> "1976-03-06"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://dbpedia.org/resource/List_of_S.W.A.T._episodes> <http://dbpedia.org/property/shortsummary> "Lt. Harrelson and his team are pursuing a group of men who are terrorizing the entire area by committing a series of rapes. The only clues are a religious medal found at one of the abduction scenes and a Biblical quotation overheard by one of the victims."@en .
+<http://dbpedia.org/resource/List_of_S.W.A.T._episodes> <http://dbpedia.org/property/episodenumber> "34"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://dbpedia.org/resource/List_of_S.W.A.T._episodes> <http://dbpedia.org/property/title> "Any Second Now"@en .
+<http://dbpedia.org/resource/List_of_S.W.A.T._episodes> <http://dbpedia.org/property/directedby> <http://dbpedia.org/resource/Nicholas_Colasanto> .
+<http://dbpedia.org/resource/List_of_S.W.A.T._episodes> <http://dbpedia.org/property/writtenby> "Edward J. Lakso"@en .
+<http://dbpedia.org/resource/List_of_S.W.A.T._episodes> <http://dbpedia.org/property/originalairdate> "1976-03-13"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://dbpedia.org/resource/List_of_S.W.A.T._episodes> <http://dbpedia.org/property/shortsummary> "A group of militants take over a radio station and demand their jailed leader be released or they'll blow the station, along with their three hostages."@en .
+<http://dbpedia.org/resource/List_of_S.W.A.T._episodes> <http://dbpedia.org/property/episodenumber> "35"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://dbpedia.org/resource/List_of_S.W.A.T._episodes> <http://dbpedia.org/property/title> "Soldier on the Hill"@en .
+<http://dbpedia.org/resource/List_of_S.W.A.T._episodes> <http://dbpedia.org/property/directedby> "Bernard McEveety"@en .
+<http://dbpedia.org/resource/List_of_S.W.A.T._episodes> <http://dbpedia.org/property/originalairdate> "1976-03-16"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://dbpedia.org/resource/List_of_S.W.A.T._episodes> <http://dbpedia.org/property/shortsummary> "A mentally unbalanced veteran who has escaped from a psychiatric hospital is touring a movie studio, when he suddenly thinks he is back fighting in Vietnam. He takes two people hostage, leaving S.W.A.T with the task of disarming him."@en .
+<http://dbpedia.org/resource/List_of_S.W.A.T._episodes> <http://dbpedia.org/property/episodenumber> "36"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://dbpedia.org/resource/List_of_S.W.A.T._episodes> <http://dbpedia.org/property/title> "Dangerous Memories"@en .
+<http://dbpedia.org/resource/List_of_S.W.A.T._episodes> <http://dbpedia.org/property/directedby> <http://dbpedia.org/resource/Richard_Benedict> .
+<http://dbpedia.org/resource/List_of_S.W.A.T._episodes> <http://dbpedia.org/property/originalairdate> "1976-03-20"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://dbpedia.org/resource/List_of_S.W.A.T._episodes> <http://dbpedia.org/property/shortsummary> "After being severely wounded in an operation, Lt. Harrelson fights for his life during a lengthy brain surgery. While waiting at the hospital, the four team members reminisce about their best moments with the Lieutenant ."@en .
+<http://dbpedia.org/resource/List_of_S.W.A.T._episodes> <http://dbpedia.org/property/episodenumber> "37"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://dbpedia.org/resource/List_of_S.W.A.T._episodes> <http://dbpedia.org/property/title> "Officer Luca, You're Dead"@en .
+<http://dbpedia.org/resource/List_of_S.W.A.T._episodes> <http://dbpedia.org/property/writtenby> "John Tomerlin"@en .
+<http://dbpedia.org/resource/List_of_S.W.A.T._episodes> <http://dbpedia.org/property/originalairdate> "1976-04-03"^^<http://www.w3.org/2001/XMLSchema#date> .
+<http://dbpedia.org/resource/List_of_S.W.A.T._episodes> <http://dbpedia.org/property/shortsummary> "Luca is charged with manslaughter after he is forced to kill a man who was holding his own wife hostage at gunpoint."@en .
